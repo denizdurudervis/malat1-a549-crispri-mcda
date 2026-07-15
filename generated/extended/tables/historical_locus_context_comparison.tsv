@@ -1,0 +1,40 @@
+source_group	guide_id	guide_sequence	cell_or_library_context	tss_distance_bp	in_minus50_plus300	ATAC_overlap	TALAM1_overlap	nearby_promoter_overlap	evidence_class	known_knockdown_result
+Current_A549_panel	MALAT1_A549_NGG_0046	CGGAGAACAACTCGCATCAC	A549;ZIM3-KRAB-dCas9;in_silico	-42.5	1	1	0	1	current_in_silico_candidate	
+Current_A549_panel	MALAT1_A549_NGG_0047	GGGCGAGGCGTATTTATAGA	A549;ZIM3-KRAB-dCas9;in_silico	-22.5	1	1	0	1	current_in_silico_candidate	
+Current_A549_panel	MALAT1_A549_NGG_0048	TACGCCTCGCCCGAGCTGTG	A549;ZIM3-KRAB-dCas9;in_silico	-14.5	1	1	0	1	current_in_silico_candidate	
+Current_A549_panel	MALAT1_A549_NGG_0045	GGCGGAAGGTGATCGAATTC	A549;ZIM3-KRAB-dCas9;in_silico	-64.5	0	1	0	1	current_in_silico_candidate	
+Current_A549_panel	MALAT1_A549_NGG_0076	CTTCTATTGGTATTAATTCG	A549;ZIM3-KRAB-dCas9;in_silico	342.5	0	0	1	0	current_in_silico_candidate	
+Current_A549_panel	MALAT1_A549_NGG_0071	AGGTTTCTAAAACATGACGG	A549;ZIM3-KRAB-dCas9;in_silico	248.5	1	0	1	0	current_in_silico_candidate	
+Stojic2018_HeLa	sgRNA_93	AAAATGGCGCTGCGCTTAAG	HeLa non-clonal;dCas9-KRAB	-1234.5	0	0	0	0	T1_direct_wrong_cell_and_effector_context	less effective than guide 84; exact value not stated in caption
+Stojic2018_HeLa	sgRNA_86	AAGGACTGGGGCCCCGCAAC	HeLa non-clonal;dCas9-KRAB	-1270.5	0	0	0	0	T1_direct_wrong_cell_and_effector_context	less effective than guide 84; exact value not stated in caption
+Stojic2018_HeLa	sgRNA_84	GCAGCCCGAGACTTCTGTAA	HeLa non-clonal;dCas9-KRAB	-1289.5	0	0	0	0	T1_direct_wrong_cell_and_effector_context	50% reduction in MALAT1 level
+CRiNCL2017_design	CRiNCL_01	GAGGGACTGCGCAACCGGTG	cancer_common;hff_ips;hff_unique;k562_hela_mcf7	-1338.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_02	GAACCGGTGGGGCTGCGTCA	cancer_common;hff_ips;hff_unique;k562_hela_mcf7	-1349.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_03	GCGTCAGGGACAAACGCCGG	cancer_common;hff_ips;hff_unique;k562_hela_mcf7	-1363.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_04	GGGCTCGCGAGCGCCGCGCA	cancer_common;hff_ips;hff_unique;k562_hela_mcf7	-1391.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_05	GGCCGCGCAGGGATACGCGA	cancer_common;hff_ips;hff_unique;k562_hela_mcf7	-1402.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_06	GGCCCTCGCGTATCCCTGCG	cancer_common;hff_ips;hff_unique;k562_hela_mcf7	-1406.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_07	GGCGCCTCACAAAGGGAGGG	cancer_common;hff_ips;hff_unique;k562_hela_mcf7	-1434.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_08	GCCAGCGCCTCACAAAGGGA	cancer_common;hff_ips;hff_unique;k562_hela_mcf7	-1437.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_09	GCGAGCCAGCGCCTCACAAA	cancer_common;hff_ips;hff_unique;k562_hela_mcf7	-1441.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_10	GTGAGGCGCTGGCTCGTGGG	cancer_common;hff_ips;hff_unique;k562_hela_mcf7	-1445.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_11	GAACTGCAGAGCAAAGGAAG	cancer_common;hff_unique	3286.0	0	0	1	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_12	GGTGGCTTAATGATCCTGAA	cancer_common;hff_unique	3304.0	0	0	1	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_13	GCTGAAGGGATTTCTTCTGA	cancer_common;hff_unique	3318.0	0	0	1	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_14	GAGCTTGAATGTCTCTTAGA	cancer_common;hff_unique	3533.0	0	0	1	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_15	GTGAATGTCTCTTAGAGGGT	cancer_common;hff_unique	3537.0	0	0	1	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_16	GGGTGGGCTTTTGTTGATGA	cancer_common;hff_unique	3553.0	0	0	1	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_17	GAACCAGCCTGGCAGTATGA	cancer_common;hff_unique	3631.0	0	0	1	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_18	GTCTAGGCCATCATACTGCC	cancer_common;hff_unique	3640.0	0	0	1	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_19	GTATGCTTATTCCCCAATGG	cancer_common;hff_unique	3723.0	0	0	1	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_20	GGGTTATGCTTATTCCCCAA	cancer_common;hff_unique	3726.0	0	0	1	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_21	GCAGTGTGGGGAAGAGATCT	hff_ips;k562_hela_mcf7	11698.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_22	GGTGGGGAAGAGATCTGGGA	hff_ips;k562_hela_mcf7	11702.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_23	GTGGGAGGGTTCTCATTCAT	hff_ips;k562_hela_mcf7	11716.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_24	GATTTGGAAGACCAGAAACC	hff_ips;k562_hela_mcf7	11744.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_25	GTAGCCACAGTAGACCCACC	hff_ips;k562_hela_mcf7	11853.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_26	GCTTCCAGGTGGGTCTACTG	hff_ips;k562_hela_mcf7	11859.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_27	GTTTCTAGTTGCTTCCAGGT	hff_ips;k562_hela_mcf7	11869.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_28	GGCCATCTAGTGAACAAATT	hff_ips;k562_hela_mcf7	11904.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_29	GGCCCAATTTGTTCACTAGA	hff_ips;k562_hela_mcf7	11908.0	0	0	0	0	T3_design_only	
+CRiNCL2017_design	CRiNCL_30	GGCATTGCATGCGTTAGCTT	hff_ips;k562_hela_mcf7	11925.0	0	0	0	0	T3_design_only	

@@ -1,0 +1,7 @@
+uncertainty_source	mean_absolute_rank_shift_vs_central	maximum_absolute_rank_shift_vs_central	mean_score_sd	maximum_score_sd	winner_entropy_nats	candidates_with_p_top5_ge_0_10	expected_top5_jaccard_vs_central_approx
+weights_only	1.489269	4.94575	0.04292126	0.0579718	0.2091328	7	0.824718
+position_only	0.273147	1.13325	0.0022831	0.01249688	-0.0	5	0.998661
+ATAC_only	0.294928	1.2917	0.00717691	0.00717691	0.00756064	5	0.997144
+local_context_only	0.643301	2.33045	0.01671051	0.0227293	-0.0	6	0.946415
+Jost_only	0.90175	3.24035	0.01475291	0.01964459	0.57059377	6	0.865898
+all_sources_combined	1.828386	5.53015	0.05004979	0.06013395	0.82115624	8	0.747839

@@ -1,0 +1,1549 @@
+sequence_scenario	profile	candidate_id	sequence_value	eligible	utility	rank	panel_flag
+locked_strict_composite	balanced	MALAT1_A549_NGG_0001	1.0	1	0.53248765	15	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0002	1.0	1	0.51034495	21	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0003	1.0	1	0.50215975	25	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0004	1.0	1	0.4959288	26	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0005	1.0	1	0.49357165	28	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0006	1.0	1	0.3563958	58	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0007	1.0	1	0.4177527	45	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0008	1.0	1	0.36815675	54	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0009	1.0	1	0.36270205	57	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0010	1.0	1	0.40228185	49	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0011	1.0	1	0.3511799	60	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0012	1.0	1	0.34568485	62	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0013	1.0	1	0.35495495	59	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0014	1.0	1	0.34981415	61	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0015	1.0	1	0.5425133	14	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0016	1.0	1	0.3989106	51	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0017	1.0	1	0.42453355	43	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0018	1.0	1	0.3647878	56	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0019	1.0	1	0.36499795	55	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0020	0.0	1	0.24145625	82	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0021	1.0	1	0.40027865	50	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0022	1.0	1	0.4066366	47	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0023	1.0	1	0.4096924	46	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0024	1.0	1	0.42236185	44	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0025	0.0	1	0.2339903	84	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0026	0.0	1	0.24599185	80	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0027	0.0	1	0.3182113	69	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0028	0.0	1	0.38467635	52	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0029	0.0	1	0.26859615	76	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0030	1.0	1	0.4058699	48	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0031	0.0	1	0.2503404	78	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0032	0.0	1	0.23742345	83	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0033	0.0	1	0.24679745	79	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0034	1.0	1	0.506446	23	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0035	0.0	1	0.27296895	75	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0036	0.0	1	0.3704176	53	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0037	0.0	1	0.3257036	65	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0038	0.0	1	0.3185221	68	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0039	0.0	1	0.3395219	63	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0040	1.0	1	0.55380145	13	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0041	1.0	1	0.55703155	12	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0042	1.0	1	0.5910386	6	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0043	1.0	1	0.5633749	10	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0044	1.0	1	0.51937445	20	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0045	1.0	1	0.7174982	4	1
+locked_strict_composite	balanced	MALAT1_A549_NGG_0046	1.0	1	0.777656	1	1
+locked_strict_composite	balanced	MALAT1_A549_NGG_0047	1.0	1	0.75503125	2	1
+locked_strict_composite	balanced	MALAT1_A549_NGG_0048	1.0	1	0.7216415	3	1
+locked_strict_composite	balanced	MALAT1_A549_NGG_0049	0.0	1	0.580647	8	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0050	0.0	1	0.429983	42	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0051	1.0	1	0.52651175	16	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0052	1.0	1	0.5620245	11	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0053	1.0	1	0.5709515	9	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0054	1.0	1	0.5083495	22	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0055	1.0	1	0.52138675	19	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0056	1.0	1	0.503528	24	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0057	1.0	1	0.4905965	31	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0058	1.0	1	0.49561825	27	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0059	1.0	1	0.47928725	33	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0060	1.0	1	0.493482	29	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0061	1.0	1	0.48005825	32	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0062	0.0	1	0.32641625	64	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0063	0.0	1	0.3145935	71	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0064	0.0	1	0.31653175	70	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0065	0.0	1	0.31028375	72	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0066	0.0	1	0.320847	67	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0067	1.0	1	0.4930645	30	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0068	1.0	1	0.475881	34	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0069	1.0	1	0.453987	39	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0070	0.0	1	0.323739	66	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0071	1.0	1	0.58996275	7	1
+locked_strict_composite	balanced	MALAT1_A549_NGG_0072	1.0	1	0.47360825	35	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0073	0.0	1	0.29871925	73	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0074	1.0	1	0.5226125	17	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0075	1.0	1	0.43413975	41	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0076	1.0	1	0.623454	5	1
+locked_strict_composite	balanced	MALAT1_A549_NGG_0077	1.0	1	0.47213375	36	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0078	1.0	1	0.46054575	38	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0079	1.0	1	0.52238825	18	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0080	0.0	1	0.2682535	77	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0081	0.0	1	0.24523125	81	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0082	0.0	1	0.21834675	85	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0083	0.0	1	0.28128725	74	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0084	0.0	1	0.2181505	86	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0085	1.0	1	0.46967375	37	0
+locked_strict_composite	balanced	MALAT1_A549_NGG_0086	1.0	1	0.4497875	40	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0001	1.0	1	0.38440435	42	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0002	1.0	1	0.3624283	45	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0003	1.0	1	0.35440975	47	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0004	1.0	1	0.34834545	52	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0005	1.0	1	0.35148835	50	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0006	1.0	1	0.26481245	72	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0007	1.0	1	0.32733605	60	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0008	1.0	1	0.27790675	68	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0009	1.0	1	0.27295208	69	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0010	1.0	1	0.31269853	63	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0011	1.0	1	0.26176323	74	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0012	1.0	1	0.25726815	75	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0013	1.0	1	0.26720492	71	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0014	1.0	1	0.26223085	73	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0015	1.0	1	0.45576332	34	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0016	1.0	1	0.3179939	62	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0017	1.0	1	0.34378358	53	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0018	1.0	1	0.28553782	66	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0019	1.0	1	0.28624793	65	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0020	0.0	1	0.21470625	84	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0021	1.0	1	0.32736198	59	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0022	1.0	1	0.33505327	58	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0023	1.0	1	0.33827572	56	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0024	1.0	1	0.35194515	49	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0025	0.0	1	0.21640695	83	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0026	0.0	1	0.22857515	81	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0027	0.0	1	0.30096133	64	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0028	0.0	1	0.36759303	44	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0029	0.0	1	0.25317947	76	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0030	1.0	1	0.34195323	55	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0031	0.0	1	0.24092373	78	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0032	0.0	1	0.22817343	82	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0033	0.0	1	0.24054742	79	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0034	1.0	1	0.456696	33	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0035	0.0	1	0.28171893	67	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0036	0.0	1	0.3860009	41	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0037	0.0	1	0.34312028	54	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0038	0.0	1	0.3371054	57	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0039	0.0	1	0.35860523	46	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0040	1.0	1	0.5233848	23	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0041	1.0	1	0.52728158	22	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0042	1.0	1	0.56145527	20	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0043	1.0	1	0.5342916	21	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0044	1.0	1	0.4904578	24	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0045	1.0	1	0.76508155	4	1
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0046	1.0	1	0.827656	1	1
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0047	1.0	1	0.80503125	2	1
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0048	1.0	1	0.7716415	3	1
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0049	0.0	1	0.680647	5	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0050	0.0	1	0.579983	17	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0051	1.0	1	0.62651175	8	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0052	1.0	1	0.6620245	7	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0053	1.0	1	0.6709515	6	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0054	1.0	1	0.6083495	10	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0055	1.0	1	0.62138675	9	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0056	1.0	1	0.603528	11	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0057	1.0	1	0.5905965	14	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0058	1.0	1	0.59561825	12	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0059	1.0	1	0.57928725	18	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0060	1.0	1	0.593482	13	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0061	1.0	1	0.58005825	16	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0062	0.0	1	0.47641625	27	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0063	0.0	1	0.4645935	31	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0064	0.0	1	0.46653175	30	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0065	0.0	1	0.46028375	32	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0066	0.0	1	0.470847	28	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0067	1.0	1	0.4680645	29	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0068	1.0	1	0.450881	35	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0069	1.0	1	0.428987	38	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0070	0.0	1	0.348739	51	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0071	1.0	1	0.56496275	19	1
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0072	1.0	1	0.44860825	36	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0073	0.0	1	0.32090675	61	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0074	1.0	1	0.482425	25	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0075	1.0	1	0.39357725	40	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0076	1.0	1	0.5825165	15	1
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0077	1.0	1	0.43082125	37	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0078	1.0	1	0.41885825	39	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0079	1.0	1	0.47657575	26	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0080	0.0	1	0.268316	70	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0081	0.0	1	0.23066875	80	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0082	0.0	1	0.19628425	85	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0083	0.0	1	0.24797475	77	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0084	0.0	1	0.177713	86	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0085	1.0	1	0.37436125	43	0
+locked_strict_composite	efficacy_focused	MALAT1_A549_NGG_0086	1.0	1	0.3541	48	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0001	1.0	1	0.5969407	8	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0002	1.0	1	0.5701917	10	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0003	1.0	1	0.5601917	12	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0004	1.0	1	0.5525368	15	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0005	1.0	1	0.5438415	16	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0006	1.0	1	0.3836972	54	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0007	1.0	1	0.456081	28	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0008	1.0	1	0.3963881	50	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0009	1.0	1	0.3893091	51	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0010	1.0	1	0.4366271	35	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0011	1.0	1	0.375127	58	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0012	1.0	1	0.3674663	61	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0013	1.0	1	0.3778793	57	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0014	1.0	1	0.3715325	59	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0015	1.0	1	0.6018826	6	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0016	1.0	1	0.4233372	39	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0017	1.0	1	0.4539069	31	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0018	1.0	1	0.380612	55	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0019	1.0	1	0.3803309	56	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0020	0.0	1	0.2599475	72	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0021	1.0	1	0.4164455	44	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0022	1.0	1	0.4226528	40	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0023	1.0	1	0.426142	38	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0024	1.0	1	0.4402787	34	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0025	0.0	1	0.2412106	79	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0026	0.0	1	0.2554347	74	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0027	0.0	1	0.3419202	63	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0028	0.0	1	0.4215005	42	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0029	0.0	1	0.2804265	69	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0030	1.0	1	0.413555	46	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0031	0.0	1	0.2521196	75	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0032	0.0	1	0.2364415	80	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0033	0.0	1	0.2444903	78	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0034	1.0	1	0.5191352	21	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0035	0.0	1	0.2598961	73	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0036	0.0	1	0.3695456	60	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0037	0.0	1	0.3139332	66	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0038	0.0	1	0.304071	67	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0039	0.0	1	0.3287374	64	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0040	1.0	1	0.5553395	14	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0041	1.0	1	0.5585045	13	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0042	1.0	1	0.5991352	7	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0043	1.0	1	0.5654054	11	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0044	1.0	1	0.5124271	22	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0045	1.0	1	0.6685756	4	1
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0046	1.0	1	0.7381872	1	1
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0047	1.0	1	0.7110375	2	1
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0048	1.0	1	0.6709698	3	1
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0049	0.0	1	0.5317764	18	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0050	0.0	1	0.3559796	62	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0051	1.0	1	0.4418141	33	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0052	1.0	1	0.4844294	25	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0053	1.0	1	0.4951418	24	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0054	1.0	1	0.4200194	43	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0055	1.0	1	0.4356641	36	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0056	1.0	1	0.4142336	45	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0057	1.0	1	0.3987158	49	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0058	1.0	1	0.4047419	47	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0059	1.0	1	0.3851447	53	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0060	1.0	1	0.4021784	48	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0061	1.0	1	0.3860699	52	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0062	0.0	1	0.2316995	81	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0063	0.0	1	0.2175122	85	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0064	0.0	1	0.2198381	84	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0065	0.0	1	0.2123405	86	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0066	0.0	1	0.2250164	83	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0067	1.0	1	0.4766774	26	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0068	1.0	1	0.4560572	29	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0069	1.0	1	0.4297844	37	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0070	0.0	1	0.3034868	68	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0071	1.0	1	0.5929553	9	1
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0072	1.0	1	0.4533299	32	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0073	0.0	1	0.2764631	70	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0074	1.0	1	0.528335	19	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0075	1.0	1	0.4225677	41	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0076	1.0	1	0.6501448	5	1
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0077	1.0	1	0.4689605	27	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0078	1.0	1	0.4554549	30	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0079	1.0	1	0.5340659	17	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0080	0.0	1	0.2635042	71	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0081	0.0	1	0.2514775	76	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0082	0.0	1	0.2272161	82	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0083	0.0	1	0.3147447	65	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0084	0.0	1	0.2465806	77	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0085	1.0	1	0.5236085	20	0
+locked_strict_composite	safety_focused	MALAT1_A549_NGG_0086	1.0	1	0.500145	23	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0001	1.0	1	0.53248765	16	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0002	1.0	1	0.51034495	23	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0003	1.0	1	0.50215975	27	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0004	1.0	1	0.4959288	28	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0005	1.0	1	0.49357165	30	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0006	1.0	1	0.3563958	65	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0007	1.0	1	0.4177527	52	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0008	1.0	1	0.36815675	61	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0009	1.0	1	0.36270205	64	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0010	1.0	1	0.40228185	56	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0011	1.0	1	0.3511799	67	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0012	1.0	1	0.34568485	69	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0013	1.0	1	0.35495495	66	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0014	1.0	1	0.34981415	68	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0015	1.0	1	0.5425133	15	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0016	1.0	1	0.3989106	58	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0017	1.0	1	0.42453355	50	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0018	1.0	1	0.3647878	63	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0019	1.0	1	0.36499795	62	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0020	0.0	1	0.24145625	82	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0021	1.0	1	0.40027865	57	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0022	1.0	1	0.4066366	54	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0023	1.0	1	0.4096924	53	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0024	1.0	1	0.42236185	51	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0025	0.0	1	0.2339903	84	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0026	0.0	1	0.24599185	80	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0027	0.0	1	0.3182113	73	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0028	0.0	1	0.38467635	60	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0029	0.0	1	0.26859615	77	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0030	1.0	1	0.4058699	55	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0031	0.0	1	0.2503404	79	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0032	0.0	1	0.23742345	83	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0033	1.0	1	0.39679745	59	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0034	1.0	1	0.506446	25	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0035	0.0	1	0.27296895	76	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0036	1.0	1	0.5204176	21	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0037	1.0	1	0.4757036	38	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0038	0.0	1	0.3185221	72	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0039	0.0	1	0.3395219	70	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0040	1.0	1	0.55380145	14	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0041	1.0	1	0.55703155	13	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0042	1.0	1	0.5910386	7	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0043	1.0	1	0.5633749	11	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0044	1.0	1	0.51937445	22	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0045	1.0	1	0.7174982	5	1
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0046	1.0	1	0.777656	1	1
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0047	1.0	1	0.75503125	2	1
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0048	1.0	1	0.7216415	4	1
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0049	1.0	1	0.730647	3	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0050	1.0	1	0.579983	9	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0051	1.0	1	0.52651175	17	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0052	1.0	1	0.5620245	12	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0053	1.0	1	0.5709515	10	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0054	1.0	1	0.5083495	24	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0055	1.0	1	0.52138675	20	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0056	1.0	1	0.503528	26	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0057	1.0	1	0.4905965	33	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0058	1.0	1	0.49561825	29	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0059	1.0	1	0.47928725	35	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0060	1.0	1	0.493482	31	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0061	1.0	1	0.48005825	34	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0062	1.0	1	0.47641625	36	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0063	1.0	1	0.4645935	44	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0064	1.0	1	0.46653175	43	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0065	0.0	1	0.31028375	74	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0066	0.0	1	0.320847	71	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0067	1.0	1	0.4930645	32	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0068	1.0	1	0.475881	37	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0069	1.0	1	0.453987	46	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0070	1.0	1	0.473739	39	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0071	1.0	1	0.58996275	8	1
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0072	1.0	1	0.47360825	40	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0073	0.0	1	0.29871925	75	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0074	1.0	1	0.5226125	18	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0075	1.0	1	0.43413975	48	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0076	1.0	1	0.623454	6	1
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0077	1.0	1	0.47213375	41	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0078	1.0	1	0.46054575	45	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0079	1.0	1	0.52238825	19	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0080	0.0	1	0.2682535	78	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0081	0.0	1	0.24523125	81	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0082	0.0	1	0.21834675	85	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0083	1.0	1	0.43128725	49	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0084	0.0	1	0.2181505	86	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0085	1.0	1	0.46967375	42	0
+moderate_25_75_no_polyT_homopoly_le5	balanced	MALAT1_A549_NGG_0086	1.0	1	0.4497875	47	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0001	1.0	1	0.38440435	44	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0002	1.0	1	0.3624283	47	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0003	1.0	1	0.35440975	49	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0004	1.0	1	0.34834545	53	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0005	1.0	1	0.35148835	52	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0006	1.0	1	0.26481245	74	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0007	1.0	1	0.32733605	62	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0008	1.0	1	0.27790675	70	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0009	1.0	1	0.27295208	71	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0010	1.0	1	0.31269853	65	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0011	1.0	1	0.26176323	76	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0012	1.0	1	0.25726815	77	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0013	1.0	1	0.26720492	73	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0014	1.0	1	0.26223085	75	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0015	1.0	1	0.45576332	35	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0016	1.0	1	0.3179939	64	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0017	1.0	1	0.34378358	55	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0018	1.0	1	0.28553782	68	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0019	1.0	1	0.28624793	67	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0020	0.0	1	0.21470625	84	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0021	1.0	1	0.32736198	61	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0022	1.0	1	0.33505327	60	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0023	1.0	1	0.33827572	58	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0024	1.0	1	0.35194515	51	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0025	0.0	1	0.21640695	83	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0026	0.0	1	0.22857515	81	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0027	0.0	1	0.30096133	66	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0028	0.0	1	0.36759303	46	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0029	0.0	1	0.25317947	78	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0030	1.0	1	0.34195323	56	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0031	0.0	1	0.24092373	79	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0032	0.0	1	0.22817343	82	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0033	1.0	1	0.34054743	57	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0034	1.0	1	0.456696	34	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0035	0.0	1	0.28171893	69	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0036	1.0	1	0.4860009	28	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0037	1.0	1	0.44312028	39	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0038	0.0	1	0.3371054	59	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0039	0.0	1	0.35860523	48	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0040	1.0	1	0.5233848	26	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0041	1.0	1	0.52728158	25	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0042	1.0	1	0.56145527	23	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0043	1.0	1	0.5342916	24	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0044	1.0	1	0.4904578	27	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0045	1.0	1	0.76508155	5	1
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0046	1.0	1	0.827656	1	1
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0047	1.0	1	0.80503125	2	1
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0048	1.0	1	0.7716415	4	1
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0049	1.0	1	0.780647	3	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0050	1.0	1	0.679983	6	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0051	1.0	1	0.62651175	9	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0052	1.0	1	0.6620245	8	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0053	1.0	1	0.6709515	7	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0054	1.0	1	0.6083495	11	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0055	1.0	1	0.62138675	10	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0056	1.0	1	0.603528	12	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0057	1.0	1	0.5905965	15	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0058	1.0	1	0.59561825	13	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0059	1.0	1	0.57928725	18	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0060	1.0	1	0.593482	14	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0061	1.0	1	0.58005825	17	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0062	1.0	1	0.57641625	19	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0063	1.0	1	0.5645935	22	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0064	1.0	1	0.56653175	20	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0065	0.0	1	0.46028375	33	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0066	0.0	1	0.470847	31	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0067	1.0	1	0.4680645	32	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0068	1.0	1	0.450881	36	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0069	1.0	1	0.428987	41	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0070	1.0	1	0.448739	37	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0071	1.0	1	0.56496275	21	1
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0072	1.0	1	0.44860825	38	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0073	0.0	1	0.32090675	63	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0074	1.0	1	0.482425	29	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0075	1.0	1	0.39357725	43	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0076	1.0	1	0.5825165	16	1
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0077	1.0	1	0.43082125	40	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0078	1.0	1	0.41885825	42	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0079	1.0	1	0.47657575	30	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0080	0.0	1	0.268316	72	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0081	0.0	1	0.23066875	80	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0082	0.0	1	0.19628425	85	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0083	1.0	1	0.34797475	54	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0084	0.0	1	0.177713	86	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0085	1.0	1	0.37436125	45	0
+moderate_25_75_no_polyT_homopoly_le5	efficacy_focused	MALAT1_A549_NGG_0086	1.0	1	0.3541	50	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0001	1.0	1	0.5969407	9	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0002	1.0	1	0.5701917	11	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0003	1.0	1	0.5601917	13	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0004	1.0	1	0.5525368	16	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0005	1.0	1	0.5438415	17	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0006	1.0	1	0.3836972	60	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0007	1.0	1	0.456081	32	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0008	1.0	1	0.3963881	55	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0009	1.0	1	0.3893091	57	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0010	1.0	1	0.4366271	40	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0011	1.0	1	0.375127	65	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0012	1.0	1	0.3674663	69	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0013	1.0	1	0.3778793	64	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0014	1.0	1	0.3715325	66	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0015	1.0	1	0.6018826	7	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0016	1.0	1	0.4233372	44	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0017	1.0	1	0.4539069	35	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0018	1.0	1	0.380612	62	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0019	1.0	1	0.3803309	63	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0020	0.0	1	0.2599475	76	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0021	1.0	1	0.4164455	49	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0022	1.0	1	0.4226528	45	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0023	1.0	1	0.426142	43	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0024	1.0	1	0.4402787	39	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0025	0.0	1	0.2412106	82	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0026	0.0	1	0.2554347	78	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0027	0.0	1	0.3419202	70	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0028	0.0	1	0.4215005	47	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0029	0.0	1	0.2804265	73	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0030	1.0	1	0.413555	51	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0031	0.0	1	0.2521196	79	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0032	0.0	1	0.2364415	83	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0033	1.0	1	0.3944903	56	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0034	1.0	1	0.5191352	22	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0035	0.0	1	0.2598961	77	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0036	1.0	1	0.5195456	21	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0037	1.0	1	0.4639332	31	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0038	0.0	1	0.304071	72	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0039	0.0	1	0.3287374	71	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0040	1.0	1	0.5553395	15	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0041	1.0	1	0.5585045	14	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0042	1.0	1	0.5991352	8	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0043	1.0	1	0.5654054	12	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0044	1.0	1	0.5124271	23	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0045	1.0	1	0.6685756	5	1
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0046	1.0	1	0.7381872	1	1
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0047	1.0	1	0.7110375	2	1
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0048	1.0	1	0.6709698	4	1
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0049	1.0	1	0.6817764	3	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0050	1.0	1	0.5059796	24	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0051	1.0	1	0.4418141	38	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0052	1.0	1	0.4844294	27	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0053	1.0	1	0.4951418	26	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0054	1.0	1	0.4200194	48	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0055	1.0	1	0.4356641	41	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0056	1.0	1	0.4142336	50	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0057	1.0	1	0.3987158	54	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0058	1.0	1	0.4047419	52	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0059	1.0	1	0.3851447	59	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0060	1.0	1	0.4021784	53	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0061	1.0	1	0.3860699	58	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0062	1.0	1	0.3816995	61	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0063	1.0	1	0.3675122	68	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0064	1.0	1	0.3698381	67	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0065	0.0	1	0.2123405	86	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0066	0.0	1	0.2250164	85	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0067	1.0	1	0.4766774	28	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0068	1.0	1	0.4560572	33	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0069	1.0	1	0.4297844	42	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0070	1.0	1	0.4534868	36	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0071	1.0	1	0.5929553	10	1
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0072	1.0	1	0.4533299	37	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0073	0.0	1	0.2764631	74	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0074	1.0	1	0.528335	19	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0075	1.0	1	0.4225677	46	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0076	1.0	1	0.6501448	6	1
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0077	1.0	1	0.4689605	29	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0078	1.0	1	0.4554549	34	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0079	1.0	1	0.5340659	18	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0080	0.0	1	0.2635042	75	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0081	0.0	1	0.2514775	80	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0082	0.0	1	0.2272161	84	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0083	1.0	1	0.4647447	30	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0084	0.0	1	0.2465806	81	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0085	1.0	1	0.5236085	20	0
+moderate_25_75_no_polyT_homopoly_le5	safety_focused	MALAT1_A549_NGG_0086	1.0	1	0.500145	25	0
+polyT_only	balanced	MALAT1_A549_NGG_0001	1.0	1	0.53248765	16	0
+polyT_only	balanced	MALAT1_A549_NGG_0002	1.0	1	0.51034495	23	0
+polyT_only	balanced	MALAT1_A549_NGG_0003	1.0	1	0.50215975	27	0
+polyT_only	balanced	MALAT1_A549_NGG_0004	1.0	1	0.4959288	28	0
+polyT_only	balanced	MALAT1_A549_NGG_0005	1.0	1	0.49357165	30	0
+polyT_only	balanced	MALAT1_A549_NGG_0006	1.0	1	0.3563958	70	0
+polyT_only	balanced	MALAT1_A549_NGG_0007	1.0	1	0.4177527	55	0
+polyT_only	balanced	MALAT1_A549_NGG_0008	1.0	1	0.36815675	66	0
+polyT_only	balanced	MALAT1_A549_NGG_0009	1.0	1	0.36270205	69	0
+polyT_only	balanced	MALAT1_A549_NGG_0010	1.0	1	0.40228185	59	0
+polyT_only	balanced	MALAT1_A549_NGG_0011	1.0	1	0.3511799	72	0
+polyT_only	balanced	MALAT1_A549_NGG_0012	1.0	1	0.34568485	74	0
+polyT_only	balanced	MALAT1_A549_NGG_0013	1.0	1	0.35495495	71	0
+polyT_only	balanced	MALAT1_A549_NGG_0014	1.0	1	0.34981415	73	0
+polyT_only	balanced	MALAT1_A549_NGG_0015	1.0	1	0.5425133	15	0
+polyT_only	balanced	MALAT1_A549_NGG_0016	1.0	1	0.3989106	61	0
+polyT_only	balanced	MALAT1_A549_NGG_0017	1.0	1	0.42453355	53	0
+polyT_only	balanced	MALAT1_A549_NGG_0018	1.0	1	0.3647878	68	0
+polyT_only	balanced	MALAT1_A549_NGG_0019	1.0	1	0.36499795	67	0
+polyT_only	balanced	MALAT1_A549_NGG_0020	0.0	1	0.24145625	83	0
+polyT_only	balanced	MALAT1_A549_NGG_0021	1.0	1	0.40027865	60	0
+polyT_only	balanced	MALAT1_A549_NGG_0022	1.0	1	0.4066366	57	0
+polyT_only	balanced	MALAT1_A549_NGG_0023	1.0	1	0.4096924	56	0
+polyT_only	balanced	MALAT1_A549_NGG_0024	1.0	1	0.42236185	54	0
+polyT_only	balanced	MALAT1_A549_NGG_0025	0.0	1	0.2339903	85	0
+polyT_only	balanced	MALAT1_A549_NGG_0026	0.0	1	0.24599185	82	0
+polyT_only	balanced	MALAT1_A549_NGG_0027	0.0	1	0.3182113	77	0
+polyT_only	balanced	MALAT1_A549_NGG_0028	0.0	1	0.38467635	64	0
+polyT_only	balanced	MALAT1_A549_NGG_0029	0.0	1	0.26859615	79	0
+polyT_only	balanced	MALAT1_A549_NGG_0030	1.0	1	0.4058699	58	0
+polyT_only	balanced	MALAT1_A549_NGG_0031	0.0	1	0.2503404	81	0
+polyT_only	balanced	MALAT1_A549_NGG_0032	0.0	1	0.23742345	84	0
+polyT_only	balanced	MALAT1_A549_NGG_0033	1.0	1	0.39679745	62	0
+polyT_only	balanced	MALAT1_A549_NGG_0034	1.0	1	0.506446	25	0
+polyT_only	balanced	MALAT1_A549_NGG_0035	0.0	1	0.27296895	78	0
+polyT_only	balanced	MALAT1_A549_NGG_0036	1.0	1	0.5204176	21	0
+polyT_only	balanced	MALAT1_A549_NGG_0037	1.0	1	0.4757036	38	0
+polyT_only	balanced	MALAT1_A549_NGG_0038	0.0	1	0.3185221	76	0
+polyT_only	balanced	MALAT1_A549_NGG_0039	0.0	1	0.3395219	75	0
+polyT_only	balanced	MALAT1_A549_NGG_0040	1.0	1	0.55380145	14	0
+polyT_only	balanced	MALAT1_A549_NGG_0041	1.0	1	0.55703155	13	0
+polyT_only	balanced	MALAT1_A549_NGG_0042	1.0	1	0.5910386	7	0
+polyT_only	balanced	MALAT1_A549_NGG_0043	1.0	1	0.5633749	11	0
+polyT_only	balanced	MALAT1_A549_NGG_0044	1.0	1	0.51937445	22	0
+polyT_only	balanced	MALAT1_A549_NGG_0045	1.0	1	0.7174982	5	1
+polyT_only	balanced	MALAT1_A549_NGG_0046	1.0	1	0.777656	1	1
+polyT_only	balanced	MALAT1_A549_NGG_0047	1.0	1	0.75503125	2	1
+polyT_only	balanced	MALAT1_A549_NGG_0048	1.0	1	0.7216415	4	1
+polyT_only	balanced	MALAT1_A549_NGG_0049	1.0	1	0.730647	3	0
+polyT_only	balanced	MALAT1_A549_NGG_0050	1.0	1	0.579983	9	0
+polyT_only	balanced	MALAT1_A549_NGG_0051	1.0	1	0.52651175	17	0
+polyT_only	balanced	MALAT1_A549_NGG_0052	1.0	1	0.5620245	12	0
+polyT_only	balanced	MALAT1_A549_NGG_0053	1.0	1	0.5709515	10	0
+polyT_only	balanced	MALAT1_A549_NGG_0054	1.0	1	0.5083495	24	0
+polyT_only	balanced	MALAT1_A549_NGG_0055	1.0	1	0.52138675	20	0
+polyT_only	balanced	MALAT1_A549_NGG_0056	1.0	1	0.503528	26	0
+polyT_only	balanced	MALAT1_A549_NGG_0057	1.0	1	0.4905965	33	0
+polyT_only	balanced	MALAT1_A549_NGG_0058	1.0	1	0.49561825	29	0
+polyT_only	balanced	MALAT1_A549_NGG_0059	1.0	1	0.47928725	35	0
+polyT_only	balanced	MALAT1_A549_NGG_0060	1.0	1	0.493482	31	0
+polyT_only	balanced	MALAT1_A549_NGG_0061	1.0	1	0.48005825	34	0
+polyT_only	balanced	MALAT1_A549_NGG_0062	1.0	1	0.47641625	36	0
+polyT_only	balanced	MALAT1_A549_NGG_0063	1.0	1	0.4645935	45	0
+polyT_only	balanced	MALAT1_A549_NGG_0064	1.0	1	0.46653175	44	0
+polyT_only	balanced	MALAT1_A549_NGG_0065	1.0	1	0.46028375	47	0
+polyT_only	balanced	MALAT1_A549_NGG_0066	1.0	1	0.470847	42	0
+polyT_only	balanced	MALAT1_A549_NGG_0067	1.0	1	0.4930645	32	0
+polyT_only	balanced	MALAT1_A549_NGG_0068	1.0	1	0.475881	37	0
+polyT_only	balanced	MALAT1_A549_NGG_0069	1.0	1	0.453987	48	0
+polyT_only	balanced	MALAT1_A549_NGG_0070	1.0	1	0.473739	39	0
+polyT_only	balanced	MALAT1_A549_NGG_0071	1.0	1	0.58996275	8	1
+polyT_only	balanced	MALAT1_A549_NGG_0072	1.0	1	0.47360825	40	0
+polyT_only	balanced	MALAT1_A549_NGG_0073	1.0	1	0.44871925	50	0
+polyT_only	balanced	MALAT1_A549_NGG_0074	1.0	1	0.5226125	18	0
+polyT_only	balanced	MALAT1_A549_NGG_0075	1.0	1	0.43413975	51	0
+polyT_only	balanced	MALAT1_A549_NGG_0076	1.0	1	0.623454	6	1
+polyT_only	balanced	MALAT1_A549_NGG_0077	1.0	1	0.47213375	41	0
+polyT_only	balanced	MALAT1_A549_NGG_0078	1.0	1	0.46054575	46	0
+polyT_only	balanced	MALAT1_A549_NGG_0079	1.0	1	0.52238825	19	0
+polyT_only	balanced	MALAT1_A549_NGG_0080	0.0	1	0.2682535	80	0
+polyT_only	balanced	MALAT1_A549_NGG_0081	1.0	1	0.39523125	63	0
+polyT_only	balanced	MALAT1_A549_NGG_0082	1.0	1	0.36834675	65	0
+polyT_only	balanced	MALAT1_A549_NGG_0083	1.0	1	0.43128725	52	0
+polyT_only	balanced	MALAT1_A549_NGG_0084	0.0	1	0.2181505	86	0
+polyT_only	balanced	MALAT1_A549_NGG_0085	1.0	1	0.46967375	43	0
+polyT_only	balanced	MALAT1_A549_NGG_0086	1.0	1	0.4497875	49	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0001	1.0	1	0.38440435	45	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0002	1.0	1	0.3624283	48	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0003	1.0	1	0.35440975	50	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0004	1.0	1	0.34834545	54	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0005	1.0	1	0.35148835	53	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0006	1.0	1	0.26481245	76	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0007	1.0	1	0.32733605	64	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0008	1.0	1	0.27790675	72	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0009	1.0	1	0.27295208	73	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0010	1.0	1	0.31269853	66	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0011	1.0	1	0.26176323	78	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0012	1.0	1	0.25726815	79	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0013	1.0	1	0.26720492	75	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0014	1.0	1	0.26223085	77	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0015	1.0	1	0.45576332	35	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0016	1.0	1	0.3179939	65	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0017	1.0	1	0.34378358	56	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0018	1.0	1	0.28553782	70	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0019	1.0	1	0.28624793	69	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0020	0.0	1	0.21470625	85	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0021	1.0	1	0.32736198	63	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0022	1.0	1	0.33505327	61	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0023	1.0	1	0.33827572	59	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0024	1.0	1	0.35194515	52	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0025	0.0	1	0.21640695	84	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0026	0.0	1	0.22857515	82	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0027	0.0	1	0.30096133	67	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0028	0.0	1	0.36759303	47	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0029	0.0	1	0.25317947	80	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0030	1.0	1	0.34195323	57	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0031	0.0	1	0.24092373	81	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0032	0.0	1	0.22817343	83	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0033	1.0	1	0.34054743	58	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0034	1.0	1	0.456696	34	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0035	0.0	1	0.28171893	71	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0036	1.0	1	0.4860009	30	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0037	1.0	1	0.44312028	39	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0038	0.0	1	0.3371054	60	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0039	0.0	1	0.35860523	49	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0040	1.0	1	0.5233848	28	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0041	1.0	1	0.52728158	27	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0042	1.0	1	0.56145527	24	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0043	1.0	1	0.5342916	26	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0044	1.0	1	0.4904578	29	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0045	1.0	1	0.76508155	5	1
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0046	1.0	1	0.827656	1	1
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0047	1.0	1	0.80503125	2	1
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0048	1.0	1	0.7716415	4	1
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0049	1.0	1	0.780647	3	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0050	1.0	1	0.679983	6	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0051	1.0	1	0.62651175	9	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0052	1.0	1	0.6620245	8	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0053	1.0	1	0.6709515	7	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0054	1.0	1	0.6083495	11	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0055	1.0	1	0.62138675	10	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0056	1.0	1	0.603528	12	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0057	1.0	1	0.5905965	15	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0058	1.0	1	0.59561825	13	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0059	1.0	1	0.57928725	18	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0060	1.0	1	0.593482	14	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0061	1.0	1	0.58005825	17	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0062	1.0	1	0.57641625	19	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0063	1.0	1	0.5645935	23	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0064	1.0	1	0.56653175	21	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0065	1.0	1	0.56028375	25	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0066	1.0	1	0.570847	20	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0067	1.0	1	0.4680645	33	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0068	1.0	1	0.450881	36	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0069	1.0	1	0.428987	41	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0070	1.0	1	0.448739	37	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0071	1.0	1	0.56496275	22	1
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0072	1.0	1	0.44860825	38	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0073	1.0	1	0.42090675	42	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0074	1.0	1	0.482425	31	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0075	1.0	1	0.39357725	44	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0076	1.0	1	0.5825165	16	1
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0077	1.0	1	0.43082125	40	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0078	1.0	1	0.41885825	43	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0079	1.0	1	0.47657575	32	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0080	0.0	1	0.268316	74	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0081	1.0	1	0.33066875	62	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0082	1.0	1	0.29628425	68	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0083	1.0	1	0.34797475	55	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0084	0.0	1	0.177713	86	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0085	1.0	1	0.37436125	46	0
+polyT_only	efficacy_focused	MALAT1_A549_NGG_0086	1.0	1	0.3541	51	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0001	1.0	1	0.5969407	9	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0002	1.0	1	0.5701917	11	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0003	1.0	1	0.5601917	13	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0004	1.0	1	0.5525368	16	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0005	1.0	1	0.5438415	17	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0006	1.0	1	0.3836972	62	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0007	1.0	1	0.456081	32	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0008	1.0	1	0.3963881	57	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0009	1.0	1	0.3893091	59	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0010	1.0	1	0.4366271	40	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0011	1.0	1	0.375127	68	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0012	1.0	1	0.3674663	73	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0013	1.0	1	0.3778793	66	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0014	1.0	1	0.3715325	70	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0015	1.0	1	0.6018826	7	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0016	1.0	1	0.4233372	45	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0017	1.0	1	0.4539069	35	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0018	1.0	1	0.380612	64	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0019	1.0	1	0.3803309	65	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0020	0.0	1	0.2599475	80	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0021	1.0	1	0.4164455	50	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0022	1.0	1	0.4226528	46	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0023	1.0	1	0.426142	44	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0024	1.0	1	0.4402787	39	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0025	0.0	1	0.2412106	85	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0026	0.0	1	0.2554347	82	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0027	0.0	1	0.3419202	75	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0028	0.0	1	0.4215005	48	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0029	0.0	1	0.2804265	78	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0030	1.0	1	0.413555	52	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0031	0.0	1	0.2521196	83	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0032	0.0	1	0.2364415	86	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0033	1.0	1	0.3944903	58	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0034	1.0	1	0.5191352	22	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0035	0.0	1	0.2598961	81	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0036	1.0	1	0.5195456	21	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0037	1.0	1	0.4639332	31	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0038	0.0	1	0.304071	77	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0039	0.0	1	0.3287374	76	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0040	1.0	1	0.5553395	15	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0041	1.0	1	0.5585045	14	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0042	1.0	1	0.5991352	8	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0043	1.0	1	0.5654054	12	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0044	1.0	1	0.5124271	23	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0045	1.0	1	0.6685756	5	1
+polyT_only	safety_focused	MALAT1_A549_NGG_0046	1.0	1	0.7381872	1	1
+polyT_only	safety_focused	MALAT1_A549_NGG_0047	1.0	1	0.7110375	2	1
+polyT_only	safety_focused	MALAT1_A549_NGG_0048	1.0	1	0.6709698	4	1
+polyT_only	safety_focused	MALAT1_A549_NGG_0049	1.0	1	0.6817764	3	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0050	1.0	1	0.5059796	24	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0051	1.0	1	0.4418141	38	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0052	1.0	1	0.4844294	27	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0053	1.0	1	0.4951418	26	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0054	1.0	1	0.4200194	49	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0055	1.0	1	0.4356641	41	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0056	1.0	1	0.4142336	51	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0057	1.0	1	0.3987158	56	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0058	1.0	1	0.4047419	53	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0059	1.0	1	0.3851447	61	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0060	1.0	1	0.4021784	54	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0061	1.0	1	0.3860699	60	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0062	1.0	1	0.3816995	63	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0063	1.0	1	0.3675122	72	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0064	1.0	1	0.3698381	71	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0065	1.0	1	0.3623405	74	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0066	1.0	1	0.3750164	69	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0067	1.0	1	0.4766774	28	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0068	1.0	1	0.4560572	33	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0069	1.0	1	0.4297844	42	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0070	1.0	1	0.4534868	36	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0071	1.0	1	0.5929553	10	1
+polyT_only	safety_focused	MALAT1_A549_NGG_0072	1.0	1	0.4533299	37	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0073	1.0	1	0.4264631	43	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0074	1.0	1	0.528335	19	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0075	1.0	1	0.4225677	47	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0076	1.0	1	0.6501448	6	1
+polyT_only	safety_focused	MALAT1_A549_NGG_0077	1.0	1	0.4689605	29	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0078	1.0	1	0.4554549	34	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0079	1.0	1	0.5340659	18	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0080	0.0	1	0.2635042	79	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0081	1.0	1	0.4014775	55	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0082	1.0	1	0.3772161	67	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0083	1.0	1	0.4647447	30	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0084	0.0	1	0.2465806	84	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0085	1.0	1	0.5236085	20	0
+polyT_only	safety_focused	MALAT1_A549_NGG_0086	1.0	1	0.500145	25	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0001	1.0	1	0.53248765	15	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0002	1.0	1	0.51034495	21	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0003	1.0	1	0.50215975	26	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0004	1.0	1	0.4959288	27	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0005	1.0	1	0.49357165	29	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0006	1.0	1	0.3563958	62	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0007	1.0	1	0.4177527	46	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0008	1.0	1	0.36815675	57	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0009	1.0	1	0.36270205	61	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0010	1.0	1	0.40228185	50	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0011	1.0	1	0.3511799	65	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0012	1.0	1	0.34568485	67	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0013	1.0	1	0.35495495	63	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0014	1.0	1	0.34981415	66	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0015	1.0	1	0.5425133	14	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0016	1.0	1	0.3989106	53	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0017	1.0	1	0.42453355	44	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0018	1.0	1	0.3647878	59	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0019	1.0	1	0.36499795	58	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0020	0.0	1	0.24145625	82	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0021	1.0	1	0.40027865	52	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0022	1.0	1	0.4066366	48	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0023	1.0	1	0.4096924	47	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0024	1.0	1	0.42236185	45	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0025	0.0	1	0.2339903	84	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0026	0.0	1	0.24599185	80	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0027	0.0	1	0.3182113	73	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0028	0.0	1	0.38467635	56	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0029	0.0	1	0.26859615	77	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0030	1.0	1	0.4058699	49	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0031	0.0	1	0.2503404	79	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0032	0.0	1	0.23742345	83	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0033	0.5	1	0.32179745	69	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0034	1.0	1	0.506446	23	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0035	0.0	1	0.27296895	76	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0036	0.5	1	0.4454176	42	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0037	0.5	1	0.4007036	51	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0038	0.0	1	0.3185221	72	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0039	0.0	1	0.3395219	68	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0040	1.0	1	0.55380145	13	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0041	1.0	1	0.55703155	12	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0042	1.0	1	0.5910386	7	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0043	1.0	1	0.5633749	10	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0044	1.0	1	0.51937445	20	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0045	1.0	1	0.7174982	4	1
+continuous_penalty	balanced	MALAT1_A549_NGG_0046	1.0	1	0.777656	1	1
+continuous_penalty	balanced	MALAT1_A549_NGG_0047	1.0	1	0.75503125	2	1
+continuous_penalty	balanced	MALAT1_A549_NGG_0048	1.0	1	0.7216415	3	1
+continuous_penalty	balanced	MALAT1_A549_NGG_0049	0.5	1	0.655647	5	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0050	0.5	1	0.504983	24	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0051	1.0	1	0.52651175	16	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0052	1.0	1	0.5620245	11	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0053	1.0	1	0.5709515	9	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0054	1.0	1	0.5083495	22	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0055	1.0	1	0.52138675	19	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0056	1.0	1	0.503528	25	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0057	1.0	1	0.4905965	32	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0058	1.0	1	0.49561825	28	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0059	1.0	1	0.47928725	34	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0060	1.0	1	0.493482	30	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0061	1.0	1	0.48005825	33	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0062	0.25	1	0.36391625	60	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0063	0.5	1	0.3895935	55	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0064	0.25	1	0.35403175	64	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0065	0.0	1	0.31028375	74	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0066	0.0	1	0.320847	70	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0067	1.0	1	0.4930645	31	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0068	1.0	1	0.475881	35	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0069	1.0	1	0.453987	40	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0070	0.5	1	0.398739	54	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0071	1.0	1	0.58996275	8	1
+continuous_penalty	balanced	MALAT1_A549_NGG_0072	1.0	1	0.47360825	36	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0073	0.0	1	0.29871925	75	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0074	1.0	1	0.5226125	17	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0075	1.0	1	0.43413975	43	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0076	1.0	1	0.623454	6	1
+continuous_penalty	balanced	MALAT1_A549_NGG_0077	1.0	1	0.47213375	37	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0078	1.0	1	0.46054575	39	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0079	1.0	1	0.52238825	18	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0080	0.0	1	0.2682535	78	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0081	0.0	1	0.24523125	81	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0082	0.0	1	0.21834675	85	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0083	0.25	1	0.31878725	71	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0084	0.0	1	0.2181505	86	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0085	1.0	1	0.46967375	38	0
+continuous_penalty	balanced	MALAT1_A549_NGG_0086	1.0	1	0.4497875	41	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0001	1.0	1	0.38440435	44	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0002	1.0	1	0.3624283	47	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0003	1.0	1	0.35440975	49	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0004	1.0	1	0.34834545	53	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0005	1.0	1	0.35148835	52	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0006	1.0	1	0.26481245	74	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0007	1.0	1	0.32733605	60	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0008	1.0	1	0.27790675	69	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0009	1.0	1	0.27295208	71	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0010	1.0	1	0.31269853	63	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0011	1.0	1	0.26176323	76	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0012	1.0	1	0.25726815	77	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0013	1.0	1	0.26720492	73	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0014	1.0	1	0.26223085	75	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0015	1.0	1	0.45576332	34	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0016	1.0	1	0.3179939	62	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0017	1.0	1	0.34378358	54	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0018	1.0	1	0.28553782	67	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0019	1.0	1	0.28624793	66	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0020	0.0	1	0.21470625	84	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0021	1.0	1	0.32736198	59	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0022	1.0	1	0.33505327	58	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0023	1.0	1	0.33827572	56	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0024	1.0	1	0.35194515	51	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0025	0.0	1	0.21640695	83	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0026	0.0	1	0.22857515	81	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0027	0.0	1	0.30096133	64	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0028	0.0	1	0.36759303	46	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0029	0.0	1	0.25317947	78	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0030	1.0	1	0.34195323	55	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0031	0.0	1	0.24092373	79	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0032	0.0	1	0.22817343	82	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0033	0.5	1	0.29054743	65	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0034	1.0	1	0.456696	33	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0035	0.0	1	0.28171893	68	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0036	0.5	1	0.4360009	37	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0037	0.5	1	0.39312028	43	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0038	0.0	1	0.3371054	57	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0039	0.0	1	0.35860523	48	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0040	1.0	1	0.5233848	23	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0041	1.0	1	0.52728158	22	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0042	1.0	1	0.56145527	20	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0043	1.0	1	0.5342916	21	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0044	1.0	1	0.4904578	27	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0045	1.0	1	0.76508155	4	1
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0046	1.0	1	0.827656	1	1
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0047	1.0	1	0.80503125	2	1
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0048	1.0	1	0.7716415	3	1
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0049	0.5	1	0.730647	5	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0050	0.5	1	0.629983	8	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0051	1.0	1	0.62651175	9	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0052	1.0	1	0.6620245	7	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0053	1.0	1	0.6709515	6	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0054	1.0	1	0.6083495	11	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0055	1.0	1	0.62138675	10	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0056	1.0	1	0.603528	12	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0057	1.0	1	0.5905965	15	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0058	1.0	1	0.59561825	13	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0059	1.0	1	0.57928725	18	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0060	1.0	1	0.593482	14	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0061	1.0	1	0.58005825	17	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0062	0.25	1	0.50141625	25	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0063	0.5	1	0.5145935	24	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0064	0.25	1	0.49153175	26	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0065	0.0	1	0.46028375	32	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0066	0.0	1	0.470847	30	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0067	1.0	1	0.4680645	31	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0068	1.0	1	0.450881	35	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0069	1.0	1	0.428987	39	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0070	0.5	1	0.398739	41	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0071	1.0	1	0.56496275	19	1
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0072	1.0	1	0.44860825	36	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0073	0.0	1	0.32090675	61	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0074	1.0	1	0.482425	28	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0075	1.0	1	0.39357725	42	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0076	1.0	1	0.5825165	16	1
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0077	1.0	1	0.43082125	38	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0078	1.0	1	0.41885825	40	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0079	1.0	1	0.47657575	29	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0080	0.0	1	0.268316	72	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0081	0.0	1	0.23066875	80	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0082	0.0	1	0.19628425	85	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0083	0.25	1	0.27297475	70	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0084	0.0	1	0.177713	86	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0085	1.0	1	0.37436125	45	0
+continuous_penalty	efficacy_focused	MALAT1_A549_NGG_0086	1.0	1	0.3541	50	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0001	1.0	1	0.5969407	9	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0002	1.0	1	0.5701917	11	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0003	1.0	1	0.5601917	13	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0004	1.0	1	0.5525368	16	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0005	1.0	1	0.5438415	17	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0006	1.0	1	0.3836972	57	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0007	1.0	1	0.456081	28	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0008	1.0	1	0.3963881	52	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0009	1.0	1	0.3893091	53	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0010	1.0	1	0.4366271	36	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0011	1.0	1	0.375127	62	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0012	1.0	1	0.3674663	64	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0013	1.0	1	0.3778793	61	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0014	1.0	1	0.3715325	63	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0015	1.0	1	0.6018826	7	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0016	1.0	1	0.4233372	41	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0017	1.0	1	0.4539069	31	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0018	1.0	1	0.380612	58	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0019	1.0	1	0.3803309	59	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0020	0.0	1	0.2599475	75	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0021	1.0	1	0.4164455	46	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0022	1.0	1	0.4226528	42	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0023	1.0	1	0.426142	40	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0024	1.0	1	0.4402787	35	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0025	0.0	1	0.2412106	82	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0026	0.0	1	0.2554347	78	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0027	0.0	1	0.3419202	66	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0028	0.0	1	0.4215005	44	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0029	0.0	1	0.2804265	71	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0030	1.0	1	0.413555	48	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0031	0.0	1	0.2521196	79	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0032	0.0	1	0.2364415	83	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0033	0.5	1	0.3194903	68	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0034	1.0	1	0.5191352	21	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0035	0.0	1	0.2598961	76	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0036	0.5	1	0.4445456	33	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0037	0.5	1	0.3889332	54	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0038	0.0	1	0.304071	69	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0039	0.0	1	0.3287374	67	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0040	1.0	1	0.5553395	15	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0041	1.0	1	0.5585045	14	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0042	1.0	1	0.5991352	8	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0043	1.0	1	0.5654054	12	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0044	1.0	1	0.5124271	22	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0045	1.0	1	0.6685756	4	1
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0046	1.0	1	0.7381872	1	1
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0047	1.0	1	0.7110375	2	1
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0048	1.0	1	0.6709698	3	1
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0049	0.5	1	0.6067764	6	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0050	0.5	1	0.4309796	38	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0051	1.0	1	0.4418141	34	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0052	1.0	1	0.4844294	25	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0053	1.0	1	0.4951418	24	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0054	1.0	1	0.4200194	45	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0055	1.0	1	0.4356641	37	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0056	1.0	1	0.4142336	47	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0057	1.0	1	0.3987158	51	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0058	1.0	1	0.4047419	49	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0059	1.0	1	0.3851447	56	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0060	1.0	1	0.4021784	50	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0061	1.0	1	0.3860699	55	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0062	0.25	1	0.2691995	73	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0063	0.5	1	0.2925122	70	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0064	0.25	1	0.2573381	77	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0065	0.0	1	0.2123405	86	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0066	0.0	1	0.2250164	85	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0067	1.0	1	0.4766774	26	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0068	1.0	1	0.4560572	29	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0069	1.0	1	0.4297844	39	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0070	0.5	1	0.3784868	60	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0071	1.0	1	0.5929553	10	1
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0072	1.0	1	0.4533299	32	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0073	0.0	1	0.2764631	72	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0074	1.0	1	0.528335	19	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0075	1.0	1	0.4225677	43	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0076	1.0	1	0.6501448	5	1
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0077	1.0	1	0.4689605	27	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0078	1.0	1	0.4554549	30	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0079	1.0	1	0.5340659	18	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0080	0.0	1	0.2635042	74	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0081	0.0	1	0.2514775	80	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0082	0.0	1	0.2272161	84	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0083	0.25	1	0.3522447	65	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0084	0.0	1	0.2465806	81	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0085	1.0	1	0.5236085	20	0
+continuous_penalty	safety_focused	MALAT1_A549_NGG_0086	1.0	1	0.500145	23	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0001		1	0.44998547	17	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0002		1	0.42393524	24	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0003		1	0.41430559	28	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0004		1	0.40697506	29	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0005		1	0.40420194	31	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0006		1	0.24281859	82	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0007		1	0.31500318	62	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0008		1	0.256655	77	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0009		1	0.25023771	81	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0010		1	0.29680218	66	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0011		1	0.23668224	84	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0012		1	0.23021747	86	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0013		1	0.24112347	83	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0014		1	0.23507547	85	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0015		1	0.46178035	15	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0016		1	0.292836	69	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0017		1	0.32298065	57	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0018		1	0.25269153	80	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0019		1	0.25293876	79	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0020		1	0.28406618	73	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0021		1	0.29444547	68	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0022		1	0.30192541	64	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0023		1	0.30552047	63	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0024		1	0.32042571	59	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0025		1	0.27528271	75	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0026		1	0.28940218	71	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0027		1	0.37436624	47	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0028		1	0.45256041	16	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0029		1	0.31599547	60	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0030		1	0.30102341	65	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0031		1	0.29451812	67	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0032		1	0.27932171	74	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0033		1	0.29034994	70	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0034		1	0.41934824	26	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0035		1	0.32113994	58	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0036		1	0.43578541	22	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0037		1	0.38318071	40	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0038		1	0.37473188	46	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0039		1	0.39943753	35	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0040		1	0.47506053	14	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0041		1	0.47886065	13	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0042		1	0.51886894	7	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0043		1	0.48632341	11	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0044		1	0.43455818	23	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0045		1	0.66764494	5	1
+no_sequence_domain	balanced	MALAT1_A549_NGG_0046		1	0.73841882	1	1
+no_sequence_domain	balanced	MALAT1_A549_NGG_0047		1	0.71180147	2	1
+no_sequence_domain	balanced	MALAT1_A549_NGG_0048		1	0.67251941	4	1
+no_sequence_domain	balanced	MALAT1_A549_NGG_0049		1	0.68311412	3	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0050		1	0.50586235	9	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0051		1	0.442955	18	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0052		1	0.48473471	12	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0053		1	0.49523706	10	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0054		1	0.42158765	25	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0055		1	0.43692559	21	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0056		1	0.41591529	27	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0057		1	0.40070176	34	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0058		1	0.40660971	30	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0059		1	0.38739676	37	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0060		1	0.40409647	32	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0061		1	0.38830382	36	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0062		1	0.38401912	38	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0063		1	0.37011	49	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0064		1	0.37239029	48	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0065		1	0.36503971	51	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0066		1	0.37746706	44	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0067		1	0.40360529	33	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0068		1	0.38338941	39	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0069		1	0.35763176	52	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0070		1	0.38086941	41	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0071		1	0.51760324	8	1
+no_sequence_domain	balanced	MALAT1_A549_NGG_0072		1	0.38071559	42	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0073		1	0.35143441	54	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0074		1	0.43836765	19	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0075		1	0.33428206	55	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0076		1	0.55700471	6	1
+no_sequence_domain	balanced	MALAT1_A549_NGG_0077		1	0.37898088	43	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0078		1	0.36534794	50	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0079		1	0.43810382	20	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0080		1	0.31559235	61	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0081		1	0.28850735	72	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0082		1	0.25687853	76	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0083		1	0.33092618	56	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0084		1	0.25664765	78	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0085		1	0.37608676	45	0
+no_sequence_domain	balanced	MALAT1_A549_NGG_0086		1	0.35269118	53	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0001		1	0.31600483	49	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0002		1	0.291587	53	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0003		1	0.2826775	54	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0004		1	0.27593939	59	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0005		1	0.2794315	58	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0006		1	0.18312494	83	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0007		1	0.25259561	71	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0008		1	0.19767417	79	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0009		1	0.19216897	81	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0010		1	0.23633169	75	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0011		1	0.17973692	85	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0012		1	0.17474239	86	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0013		1	0.18578325	82	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0014		1	0.1802565	84	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0015		1	0.39529258	37	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0016		1	0.24221544	72	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0017		1	0.27087064	61	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0018		1	0.20615314	78	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0019		1	0.20694214	77	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0020		1	0.2385625	74	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0021		1	0.25262442	70	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0022		1	0.26117031	66	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0023		1	0.26475081	65	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0024		1	0.27993906	57	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0025		1	0.24045217	73	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0026		1	0.25397239	68	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0027		1	0.33440147	47	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0028		1	0.40843669	34	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0029		1	0.28131053	56	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0030		1	0.26883692	62	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0031		1	0.26769303	63	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0032		1	0.25352603	69	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0033		1	0.26727492	64	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0034		1	0.39632889	36	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0035		1	0.31302103	50	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0036		1	0.42888989	30	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0037		1	0.38124475	41	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0038		1	0.37456156	42	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0039		1	0.39845025	35	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0040		1	0.47042756	28	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0041		1	0.47475731	27	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0042		1	0.51272808	24	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0043		1	0.48254622	26	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0044		1	0.433842	29	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0045		1	0.7389795	5	1
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0046		1	0.80850667	1	1
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0047		1	0.78336806	2	1
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0048		1	0.74626833	4	1
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0049		1	0.75627444	3	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0050		1	0.64442556	6	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0051		1	0.58501306	9	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0052		1	0.62447167	8	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0053		1	0.63439056	7	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0054		1	0.56483278	11	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0055		1	0.57931861	10	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0056		1	0.55947556	12	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0057		1	0.54510722	15	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0058		1	0.55068694	13	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0059		1	0.53254139	18	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0060		1	0.54831333	14	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0061		1	0.53339806	17	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0062		1	0.52935139	19	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0063		1	0.516215	23	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0064		1	0.51836861	21	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0065		1	0.51142639	25	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0066		1	0.52316333	20	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0067		1	0.40896056	33	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0068		1	0.38986778	38	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0069		1	0.36554111	44	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0070		1	0.38748778	39	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0071		1	0.51662528	22	1
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0072		1	0.3873425	40	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0073		1	0.35656306	45	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0074		1	0.42491667	31	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0075		1	0.32619694	48	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0076		1	0.53612944	16	1
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0077		1	0.36757917	43	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0078		1	0.35428694	46	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0079		1	0.4184175	32	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0080		1	0.29812889	52	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0081		1	0.25629861	67	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0082		1	0.21809361	76	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0083		1	0.2755275	60	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0084		1	0.19745889	80	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0085		1	0.30484583	51	0
+no_sequence_domain	efficacy_focused	MALAT1_A549_NGG_0086		1	0.28233333	55	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0001		1	0.52581259	9	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0002		1	0.49434318	12	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0003		1	0.48257847	14	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0004		1	0.47357271	17	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0005		1	0.46334294	18	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0006		1	0.27493788	74	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0007		1	0.36009529	35	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0008		1	0.28986835	67	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0009		1	0.28154012	70	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0010		1	0.33720835	44	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0011		1	0.26485529	80	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0012		1	0.25584271	85	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0013		1	0.26809329	78	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0014		1	0.26062647	82	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0015		1	0.53162659	7	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0016		1	0.32157318	50	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0017		1	0.35753753	39	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0018		1	0.27130824	76	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0019		1	0.27097753	77	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0020		1	0.30582059	58	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0021		1	0.31346529	54	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0022		1	0.320768	51	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0023		1	0.32487294	49	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0024		1	0.34150435	43	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0025		1	0.28377718	69	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0026		1	0.30051141	60	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0027		1	0.40225906	28	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0028		1	0.49588294	11	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0029		1	0.32991353	46	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0030		1	0.31006471	56	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0031		1	0.29661129	63	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0032		1	0.27816647	71	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0033		1	0.28763565	68	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0034		1	0.43427671	23	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0035		1	0.30576012	59	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0036		1	0.43475953	22	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0037		1	0.36933318	34	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0038		1	0.35773059	38	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0039		1	0.38674988	30	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0040		1	0.47687	16	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0041		1	0.48059353	15	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0042		1	0.52839435	8	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0043		1	0.48871224	13	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0044		1	0.42638482	24	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0045		1	0.61008894	5	1
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0046		1	0.69198494	1	1
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0047		1	0.66004412	2	1
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0048		1	0.61290565	4	1
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0049		1	0.62561929	3	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0050		1	0.41879953	25	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0051		1	0.34331071	42	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0052		1	0.39344635	29	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0053		1	0.40604918	27	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0054		1	0.31766988	53	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0055		1	0.33607541	45	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0056		1	0.31086306	55	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0057		1	0.29260682	65	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0058		1	0.29969635	61	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0059		1	0.27664082	73	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0060		1	0.29668047	62	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0061		1	0.27772929	72	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0062		1	0.27258765	75	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0063		1	0.25589671	84	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0064		1	0.25863306	83	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0065		1	0.24981235	86	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0066		1	0.26472518	81	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0067		1	0.38432635	31	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0068		1	0.36006729	36	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0069		1	0.32915812	47	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0070		1	0.35704329	40	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0071		1	0.52112388	10	1
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0072		1	0.35685871	41	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0073		1	0.32525071	48	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0074		1	0.4451	20	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0075		1	0.32066788	52	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0076		1	0.58840565	6	1
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0077		1	0.37524765	32	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0078		1	0.35935871	37	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0079		1	0.45184224	19	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0080		1	0.31000494	57	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0081		1	0.29585588	64	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0082		1	0.26731306	79	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0083		1	0.37028788	33	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0084		1	0.29009482	66	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0085		1	0.43953941	21	0
+no_sequence_domain	safety_focused	MALAT1_A549_NGG_0086		1	0.41193529	26	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0001	1.0	1	0.53248765	14	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0002	1.0	1	0.51034495	20	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0003	1.0	1	0.50215975	24	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0004	1.0	1	0.4959288	25	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0005	1.0	1	0.49357165	27	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0006	1.0	1	0.3563958	54	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0007	1.0	1	0.4177527	43	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0008	1.0	1	0.36815675	50	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0009	1.0	1	0.36270205	53	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0010	1.0	1	0.40228185	47	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0011	1.0	1	0.3511799	56	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0012	1.0	1	0.34568485	58	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0013	1.0	1	0.35495495	55	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0014	1.0	1	0.34981415	57	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0015	1.0	1	0.5425133	13	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0016	1.0	1	0.3989106	49	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0017	1.0	1	0.42453355	41	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0018	1.0	1	0.3647878	52	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0019	1.0	1	0.36499795	51	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0020	0.0	0		59	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0021	1.0	1	0.40027865	48	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0022	1.0	1	0.4066366	45	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0023	1.0	1	0.4096924	44	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0024	1.0	1	0.42236185	42	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0025	0.0	0		60	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0026	0.0	0		61	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0027	0.0	0		62	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0028	0.0	0		63	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0029	0.0	0		64	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0030	1.0	1	0.4058699	46	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0031	0.0	0		65	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0032	0.0	0		66	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0033	0.0	0		67	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0034	1.0	1	0.506446	22	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0035	0.0	0		68	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0036	0.0	0		69	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0037	0.0	0		70	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0038	0.0	0		71	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0039	0.0	0		72	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0040	1.0	1	0.55380145	12	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0041	1.0	1	0.55703155	11	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0042	1.0	1	0.5910386	6	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0043	1.0	1	0.5633749	9	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0044	1.0	1	0.51937445	19	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0045	1.0	1	0.7174982	4	1
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0046	1.0	1	0.777656	1	1
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0047	1.0	1	0.75503125	2	1
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0048	1.0	1	0.7216415	3	1
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0049	0.0	0		73	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0050	0.0	0		74	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0051	1.0	1	0.52651175	15	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0052	1.0	1	0.5620245	10	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0053	1.0	1	0.5709515	8	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0054	1.0	1	0.5083495	21	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0055	1.0	1	0.52138675	18	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0056	1.0	1	0.503528	23	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0057	1.0	1	0.4905965	30	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0058	1.0	1	0.49561825	26	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0059	1.0	1	0.47928725	32	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0060	1.0	1	0.493482	28	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0061	1.0	1	0.48005825	31	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0062	0.0	0		75	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0063	0.0	0		76	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0064	0.0	0		77	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0065	0.0	0		78	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0066	0.0	0		79	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0067	1.0	1	0.4930645	29	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0068	1.0	1	0.475881	33	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0069	1.0	1	0.453987	38	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0070	0.0	0		80	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0071	1.0	1	0.58996275	7	1
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0072	1.0	1	0.47360825	34	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0073	0.0	0		81	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0074	1.0	1	0.5226125	16	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0075	1.0	1	0.43413975	40	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0076	1.0	1	0.623454	5	1
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0077	1.0	1	0.47213375	35	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0078	1.0	1	0.46054575	37	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0079	1.0	1	0.52238825	17	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0080	0.0	0		82	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0081	0.0	0		83	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0082	0.0	0		84	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0083	0.0	0		85	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0084	0.0	0		86	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0085	1.0	1	0.46967375	36	0
+hard_locked_eligibility	balanced	MALAT1_A549_NGG_0086	1.0	1	0.4497875	39	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0001	1.0	1	0.38440435	34	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0002	1.0	1	0.3624283	36	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0003	1.0	1	0.35440975	37	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0004	1.0	1	0.34834545	41	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0005	1.0	1	0.35148835	40	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0006	1.0	1	0.26481245	55	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0007	1.0	1	0.32733605	47	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0008	1.0	1	0.27790675	52	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0009	1.0	1	0.27295208	53	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0010	1.0	1	0.31269853	49	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0011	1.0	1	0.26176323	57	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0012	1.0	1	0.25726815	58	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0013	1.0	1	0.26720492	54	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0014	1.0	1	0.26223085	56	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0015	1.0	1	0.45576332	27	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0016	1.0	1	0.3179939	48	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0017	1.0	1	0.34378358	42	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0018	1.0	1	0.28553782	51	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0019	1.0	1	0.28624793	50	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0020	0.0	0		59	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0021	1.0	1	0.32736198	46	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0022	1.0	1	0.33505327	45	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0023	1.0	1	0.33827572	44	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0024	1.0	1	0.35194515	39	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0025	0.0	0		60	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0026	0.0	0		61	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0027	0.0	0		62	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0028	0.0	0		63	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0029	0.0	0		64	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0030	1.0	1	0.34195323	43	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0031	0.0	0		65	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0032	0.0	0		66	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0033	0.0	0		67	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0034	1.0	1	0.456696	26	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0035	0.0	0		68	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0036	0.0	0		69	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0037	0.0	0		70	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0038	0.0	0		71	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0039	0.0	0		72	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0040	1.0	1	0.5233848	21	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0041	1.0	1	0.52728158	20	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0042	1.0	1	0.56145527	18	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0043	1.0	1	0.5342916	19	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0044	1.0	1	0.4904578	22	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0045	1.0	1	0.76508155	4	1
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0046	1.0	1	0.827656	1	1
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0047	1.0	1	0.80503125	2	1
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0048	1.0	1	0.7716415	3	1
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0049	0.0	0		73	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0050	0.0	0		74	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0051	1.0	1	0.62651175	7	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0052	1.0	1	0.6620245	6	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0053	1.0	1	0.6709515	5	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0054	1.0	1	0.6083495	9	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0055	1.0	1	0.62138675	8	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0056	1.0	1	0.603528	10	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0057	1.0	1	0.5905965	13	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0058	1.0	1	0.59561825	11	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0059	1.0	1	0.57928725	16	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0060	1.0	1	0.593482	12	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0061	1.0	1	0.58005825	15	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0062	0.0	0		75	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0063	0.0	0		76	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0064	0.0	0		77	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0065	0.0	0		78	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0066	0.0	0		79	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0067	1.0	1	0.4680645	25	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0068	1.0	1	0.450881	28	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0069	1.0	1	0.428987	31	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0070	0.0	0		80	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0071	1.0	1	0.56496275	17	1
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0072	1.0	1	0.44860825	29	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0073	0.0	0		81	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0074	1.0	1	0.482425	23	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0075	1.0	1	0.39357725	33	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0076	1.0	1	0.5825165	14	1
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0077	1.0	1	0.43082125	30	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0078	1.0	1	0.41885825	32	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0079	1.0	1	0.47657575	24	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0080	0.0	0		82	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0081	0.0	0		83	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0082	0.0	0		84	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0083	0.0	0		85	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0084	0.0	0		86	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0085	1.0	1	0.37436125	35	0
+hard_locked_eligibility	efficacy_focused	MALAT1_A549_NGG_0086	1.0	1	0.3541	38	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0001	1.0	1	0.5969407	8	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0002	1.0	1	0.5701917	10	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0003	1.0	1	0.5601917	12	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0004	1.0	1	0.5525368	15	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0005	1.0	1	0.5438415	16	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0006	1.0	1	0.3836972	52	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0007	1.0	1	0.456081	27	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0008	1.0	1	0.3963881	48	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0009	1.0	1	0.3893091	49	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0010	1.0	1	0.4366271	34	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0011	1.0	1	0.375127	56	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0012	1.0	1	0.3674663	58	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0013	1.0	1	0.3778793	55	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0014	1.0	1	0.3715325	57	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0015	1.0	1	0.6018826	6	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0016	1.0	1	0.4233372	38	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0017	1.0	1	0.4539069	30	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0018	1.0	1	0.380612	53	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0019	1.0	1	0.3803309	54	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0020	0.0	0		59	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0021	1.0	1	0.4164455	42	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0022	1.0	1	0.4226528	39	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0023	1.0	1	0.426142	37	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0024	1.0	1	0.4402787	33	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0025	0.0	0		60	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0026	0.0	0		61	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0027	0.0	0		62	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0028	0.0	0		63	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0029	0.0	0		64	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0030	1.0	1	0.413555	44	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0031	0.0	0		65	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0032	0.0	0		66	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0033	0.0	0		67	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0034	1.0	1	0.5191352	20	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0035	0.0	0		68	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0036	0.0	0		69	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0037	0.0	0		70	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0038	0.0	0		71	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0039	0.0	0		72	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0040	1.0	1	0.5553395	14	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0041	1.0	1	0.5585045	13	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0042	1.0	1	0.5991352	7	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0043	1.0	1	0.5654054	11	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0044	1.0	1	0.5124271	21	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0045	1.0	1	0.6685756	4	1
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0046	1.0	1	0.7381872	1	1
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0047	1.0	1	0.7110375	2	1
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0048	1.0	1	0.6709698	3	1
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0049	0.0	0		73	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0050	0.0	0		74	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0051	1.0	1	0.4418141	32	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0052	1.0	1	0.4844294	24	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0053	1.0	1	0.4951418	23	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0054	1.0	1	0.4200194	41	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0055	1.0	1	0.4356641	35	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0056	1.0	1	0.4142336	43	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0057	1.0	1	0.3987158	47	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0058	1.0	1	0.4047419	45	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0059	1.0	1	0.3851447	51	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0060	1.0	1	0.4021784	46	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0061	1.0	1	0.3860699	50	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0062	0.0	0		75	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0063	0.0	0		76	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0064	0.0	0		77	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0065	0.0	0		78	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0066	0.0	0		79	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0067	1.0	1	0.4766774	25	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0068	1.0	1	0.4560572	28	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0069	1.0	1	0.4297844	36	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0070	0.0	0		80	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0071	1.0	1	0.5929553	9	1
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0072	1.0	1	0.4533299	31	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0073	0.0	0		81	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0074	1.0	1	0.528335	18	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0075	1.0	1	0.4225677	40	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0076	1.0	1	0.6501448	5	1
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0077	1.0	1	0.4689605	26	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0078	1.0	1	0.4554549	29	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0079	1.0	1	0.5340659	17	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0080	0.0	0		82	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0081	0.0	0		83	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0082	0.0	0		84	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0083	0.0	0		85	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0084	0.0	0		86	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0085	1.0	1	0.5236085	19	0
+hard_locked_eligibility	safety_focused	MALAT1_A549_NGG_0086	1.0	1	0.500145	22	0

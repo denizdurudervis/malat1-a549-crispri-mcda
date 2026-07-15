@@ -1,0 +1,9 @@
+name: malat1-a549-repro
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pip
+  - pip:
+      - numpy==2.3.5
+      - matplotlib==3.10.8

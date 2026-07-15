@@ -1,0 +1,13 @@
+file	purpose	key_interpretation
+position_model_sensitivity.tsv	Candidate ranks under five alternative position transforms and three preference profiles.	Model-form stress test; none is claimed to be a validated efficacy predictor.
+sequence_qc_sensitivity.tsv	Candidate ranks under six sequence-QC treatments.	Tests dependence on QC thresholds and compensatory versus hard-screen handling.
+global_weight_smaa_summary.tsv	Rank acceptability with globally sampled domain weights.	Preference-agnostic robustness stress test.
+pareto_front_and_layers.tsv	Non-dominated sorting over four decision domains.	Shows trade-off-efficient candidates without weights.
+leave_one_domain_out.tsv	Ranks after deleting one decision domain at a time.	Detects dependence on a single domain.
+offtarget_model_sensitivity.tsv	Rankings with Jost, Hsu, CFD and an ensemble.	Cross-model robustness; scores remain predictions.
+mds_coordinates.tsv	Two-dimensional classical MDS coordinates.	Descriptive visualization only.
+uncertainty_source_oat_summary.tsv	One-at-a-time uncertainty impact summary.	Not a formal Sobol decomposition.
+monte_carlo_convergence.tsv	Convergence against the 30,000-iteration estimate.	Numerical stability check.
+random_seed_stability.tsv	Top-5 probability stability across five seeds.	Numerical reproducibility check.
+historical_locus_context_comparison.tsv	Current panel versus mapped historical guides.	Locus-context comparison, not head-to-head efficacy testing.
+integrated_candidate_technical_status.tsv	Transparent evidence-flag synthesis.	Tiering is based on explicit flags, not a new hidden weighted score.

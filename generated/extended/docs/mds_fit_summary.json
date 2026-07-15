@@ -1,0 +1,13 @@
+{
+  "criteria": [
+    "C1_position",
+    "C2_ATAC",
+    "C3_TALAM1_safety",
+    "C4_promoter_safety",
+    "C5_sequence",
+    "C6_Jost"
+  ],
+  "stress_1": 0.30164035773918374,
+  "distance_R2": 0.7817636467325326,
+  "positive_eigenvalue_variance_explained_by_2D": 0.6617408922638882
+}

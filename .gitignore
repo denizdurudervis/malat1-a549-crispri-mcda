@@ -1,0 +1,14 @@
+.venv-repro/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+*.log
+# Large whole-genome assets are intentionally excluded:
+*.fa
+*.fasta
+*.fa.gz
+*.fasta.gz
+*.fai
+*.bin
+*.db

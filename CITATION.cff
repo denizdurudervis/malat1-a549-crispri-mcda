@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript or repository release."
+title: "Uncertainty-aware CRISPRi guide prioritization for the MALAT1 locus in A549"
+type: software
+authors:
+  - family-names: "Derviş"
+    given-names: "Deniz Duru"
+version: "1.0.0"
+date-released: "2026-07-15"
+license: MIT
+keywords:
+  - CRISPRi
+  - MALAT1
+  - A549
+  - multicriteria decision analysis
+  - SMAA
+  - reproducible research

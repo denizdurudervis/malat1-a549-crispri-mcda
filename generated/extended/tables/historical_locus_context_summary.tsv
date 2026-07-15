@@ -1,0 +1,4 @@
+source_group	guide_count	median_tss_distance_bp	minimum_absolute_tss_distance_bp	in_minus50_plus300_count	ATAC_overlap_count	TALAM1_overlap_count	nearby_promoter_overlap_count
+Current_A549_panel	6	-18.5	14.5	4	4	2	4
+Stojic2018_HeLa	3	-1270.5	1234.5	0	0	0	0
+CRiNCL2017_design	30	3545.0	1338.0	0	0	10	0

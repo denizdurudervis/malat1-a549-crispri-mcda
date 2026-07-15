@@ -1,0 +1,64 @@
+{
+  "status": "technical_calculations_complete",
+  "candidate_count": 86,
+  "global_smaa_iterations": 50000,
+  "oat_iterations_per_source": 20000,
+  "convergence_final_iterations": 30000,
+  "seed_stability_runs": 5,
+  "position_models": [
+    "baseline_trapezoid",
+    "narrow_trapezoid",
+    "broad_trapezoid",
+    "triangular_peak_plus100",
+    "gaussian_center_plus100_sigma200"
+  ],
+  "sequence_scenarios": [
+    "locked_strict_composite",
+    "moderate_25_75_no_polyT_homopoly_le5",
+    "polyT_only",
+    "continuous_penalty",
+    "no_sequence_domain",
+    "hard_locked_eligibility"
+  ],
+  "offtarget_models": [
+    "Jost_CRISPRi_percentile",
+    "Hsu2013_percentile",
+    "Doench_CFD_percentile",
+    "three_model_mean_percentile"
+  ],
+  "pareto_front_candidate_count": 8,
+  "mds": {
+    "criteria": [
+      "C1_position",
+      "C2_ATAC",
+      "C3_TALAM1_safety",
+      "C4_promoter_safety",
+      "C5_sequence",
+      "C6_Jost"
+    ],
+    "stress_1": 0.30164035773918374,
+    "distance_R2": 0.7817636467325326,
+    "positive_eigenvalue_variance_explained_by_2D": 0.6617408922638882
+  },
+  "integrated_top_10": [
+    "MALAT1_A549_NGG_0046",
+    "MALAT1_A549_NGG_0047",
+    "MALAT1_A549_NGG_0048",
+    "MALAT1_A549_NGG_0045",
+    "MALAT1_A549_NGG_0076",
+    "MALAT1_A549_NGG_0015",
+    "MALAT1_A549_NGG_0049",
+    "MALAT1_A549_NGG_0001",
+    "MALAT1_A549_NGG_0002",
+    "MALAT1_A549_NGG_0003"
+  ],
+  "locked_panel": [
+    "MALAT1_A549_NGG_0046",
+    "MALAT1_A549_NGG_0047",
+    "MALAT1_A549_NGG_0048",
+    "MALAT1_A549_NGG_0045",
+    "MALAT1_A549_NGG_0076",
+    "MALAT1_A549_NGG_0071"
+  ],
+  "interpretation_guard": "All candidate performance is in-silico and conditional on the frozen study design."
+}

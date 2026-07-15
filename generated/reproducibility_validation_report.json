@@ -1,0 +1,66 @@
+{
+  "passed": true,
+  "numeric_tolerance": 5e-08,
+  "python": "3.13.5 (main, May  5 2026, 21:05:52) [GCC 14.2.0]",
+  "platform": "Linux-4.4.0-x86_64-with-glibc2.41",
+  "numpy": "2.3.5",
+  "comparisons": [
+    {
+      "generated": "generated/normalized/malat1_a549_normalized_decision_matrix_v0_3.tsv",
+      "reference": "reference/normalized/malat1_a549_normalized_decision_matrix_v0_3.tsv",
+      "rows_generated": 86,
+      "rows_reference": 86,
+      "passed": true,
+      "issues": [],
+      "maximum_numeric_difference": 0.0
+    },
+    {
+      "generated": "generated/profile_smaa/malat1_a549_smaa_profile_summary_v0_1.tsv",
+      "reference": "reference/profile_smaa/malat1_a549_smaa_profile_summary_v0_1.tsv",
+      "rows_generated": 258,
+      "rows_reference": 258,
+      "passed": true,
+      "issues": [],
+      "maximum_numeric_difference": 0.0
+    },
+    {
+      "generated": "generated/profile_smaa/malat1_a549_smaa_overall_robustness_v0_1.tsv",
+      "reference": "reference/profile_smaa/malat1_a549_smaa_overall_robustness_v0_1.tsv",
+      "rows_generated": 86,
+      "rows_reference": 86,
+      "passed": true,
+      "issues": [],
+      "maximum_numeric_difference": 0.0
+    },
+    {
+      "generated": "generated/extended/tables/global_weight_smaa_summary.tsv",
+      "reference": "reference/extended/global_weight_smaa_summary.tsv",
+      "rows_generated": 86,
+      "rows_reference": 86,
+      "passed": true,
+      "issues": [],
+      "maximum_numeric_difference": 0.0
+    },
+    {
+      "generated": "generated/extended/tables/integrated_candidate_technical_status.tsv",
+      "reference": "reference/extended/integrated_candidate_technical_status.tsv",
+      "rows_generated": 86,
+      "rows_reference": 86,
+      "passed": true,
+      "issues": [],
+      "maximum_numeric_difference": 0.0
+    }
+  ],
+  "invariants": {
+    "raw_candidate_count_86": true,
+    "normalized_candidate_count_86": true,
+    "unique_candidate_ids": true,
+    "all_jost_present": true,
+    "one_mismatch_candidate_count_6": true,
+    "no_extra_exact_offtarget": true,
+    "core_integrated_top3": true,
+    "profile_robustness_top1": true
+  },
+  "generated_confidence_factor_file_exists": true,
+  "interpretation": "PASS means the post-FlashFry scientific tables reproduce the locked reference within tolerance; PNG/XLSX binary hashes are intentionally not required."
+}

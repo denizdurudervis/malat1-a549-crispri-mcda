@@ -1,0 +1,12 @@
+{
+  "candidate_count": 86,
+  "iterations_per_profile": 30000,
+  "profiles": [
+    "balanced",
+    "efficacy_focused",
+    "safety_focused"
+  ],
+  "seed_base": 20260715,
+  "maximum_binomial_monte_carlo_se": 0.002886751345948129,
+  "status": "complete"
+}

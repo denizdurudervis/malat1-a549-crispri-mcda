@@ -1,0 +1,80 @@
+{
+  "created_utc": "2026-07-14T20:22:14.157651+00:00",
+  "scope": "Whole-genome FlashFry discovery and cutting-Cas9-derived off-target scoring for 86 MALAT1 A549 CRISPRi candidates.",
+  "candidate_input": {
+    "table_path": "C:\\Users\\asus\\OneDrive\\Desktop\\malat1-crispri-locus-module-v0.2_1\\data\\candidates\\malat1_a549_primary_ngg_candidates.tsv",
+    "table_sha256": "f15bef5d31f4293f419e82a28fa4b3b09892ff96ae205df0929700c8de9a5078",
+    "candidate_count": 86,
+    "fasta_path": "C:\\Users\\asus\\OneDrive\\Desktop\\malat1-crispri-locus-module-v0.2_1\\data\\offtarget\\flashfry\\malat1_a549_86_candidates_23bp.fa",
+    "fasta_sha256": "42f766af9117111df5904aebb3df6affb1a971a58a91c04d51513457c3f17d89",
+    "record_definition": "one FASTA record per candidate; 20-nt spacer plus guide-oriented NGG PAM"
+  },
+  "flashfry": {
+    "version": "1.15",
+    "jar_path": "C:\\flashfry_work\\tools\\FlashFry-assembly-1.15.jar",
+    "jar_sha256": "9b56336f1dfc7333b6957664bf85cbaa414bff68250caa298070a33c15868a5e",
+    "java_version_output": "openjdk version \"1.8.0_492\"\nOpenJDK Runtime Environment (Temurin)(build 1.8.0_492-b09)\nOpenJDK 64-Bit Server VM (Temurin)(build 25.492-b09, mixed mode)",
+    "java_heap_gb": 8
+  },
+  "database": {
+    "path": "C:\\flashfry_work\\database\\gencode50_grch38_spcas9ngg",
+    "header_path": "C:\\flashfry_work\\database\\gencode50_grch38_spcas9ngg.header",
+    "database_sha256": "898a89e60368ce22148c55f083470bf6d631a4bfa4738dc5c5e3591638dbdc51",
+    "header_sha256": "f72eac46792d9ec8885502cf1b7f3d9339c7b93a49b3819ad161ef8284222c13",
+    "reference_sha256": "b760d18dbb651dd14dfc290083371b3ef3bff122d43a9cefb13ca4ecf38f05ca",
+    "enzyme": "spcas9ngg"
+  },
+  "discover": {
+    "command": [
+      "java",
+      "-Xmx8g",
+      "-jar",
+      "C:\\flashfry_work\\tools\\FlashFry-assembly-1.15.jar",
+      "discover",
+      "--database",
+      "C:\\flashfry_work\\database\\gencode50_grch38_spcas9ngg",
+      "--fasta",
+      "C:\\Users\\asus\\OneDrive\\Desktop\\malat1-crispri-locus-module-v0.2_1\\data\\offtarget\\flashfry\\malat1_a549_86_candidates_23bp.fa",
+      "--output",
+      "C:\\Users\\asus\\OneDrive\\Desktop\\malat1-crispri-locus-module-v0.2_1\\data\\offtarget\\flashfry\\malat1_a549_86_candidates.discovery.tsv"
+    ],
+    "started_utc": "2026-07-14T20:21:39.895825+00:00",
+    "finished_utc": "2026-07-14T20:22:12.315624+00:00",
+    "output_path": "C:\\Users\\asus\\OneDrive\\Desktop\\malat1-crispri-locus-module-v0.2_1\\data\\offtarget\\flashfry\\malat1_a549_86_candidates.discovery.tsv",
+    "output_size_bytes": 634244,
+    "output_sha256": "537c21cb99200b3305c3a87a34cf277e9894e1ed6c34984981c97969e0b52ba7",
+    "output_header": "contig\tstart\tstop\ttarget\tcontext\toverflow\torientation\totCount\toffTargets",
+    "log_path": "C:\\Users\\asus\\OneDrive\\Desktop\\malat1-crispri-locus-module-v0.2_1\\data\\offtarget\\flashfry\\logs\\malat1_discover.log"
+  },
+  "score": {
+    "command": [
+      "java",
+      "-Xmx8g",
+      "-jar",
+      "C:\\flashfry_work\\tools\\FlashFry-assembly-1.15.jar",
+      "score",
+      "--input",
+      "C:\\Users\\asus\\OneDrive\\Desktop\\malat1-crispri-locus-module-v0.2_1\\data\\offtarget\\flashfry\\malat1_a549_86_candidates.discovery.tsv",
+      "--output",
+      "C:\\Users\\asus\\OneDrive\\Desktop\\malat1-crispri-locus-module-v0.2_1\\data\\offtarget\\flashfry\\malat1_a549_86_candidates.scored.tsv",
+      "--scoringMetrics",
+      "doench2016cfd,dangerous,hsu2013,minot",
+      "--database",
+      "C:\\flashfry_work\\database\\gencode50_grch38_spcas9ngg"
+    ],
+    "metrics": [
+      "doench2016cfd",
+      "dangerous",
+      "hsu2013",
+      "minot"
+    ],
+    "started_utc": "2026-07-14T20:22:12.315624+00:00",
+    "finished_utc": "2026-07-14T20:22:14.145119+00:00",
+    "output_path": "C:\\Users\\asus\\OneDrive\\Desktop\\malat1-crispri-locus-module-v0.2_1\\data\\offtarget\\flashfry\\malat1_a549_86_candidates.scored.tsv",
+    "output_size_bytes": 14923,
+    "output_sha256": "938d32eba07400d2b811342e755df09eac848c98a666e8b20000e92c1fe71908",
+    "output_header": "contig\tstart\tstop\ttarget\tcontext\toverflow\torientation\tDoenchCFD_maxOT\tDoenchCFD_specificityscore\tdangerous_GC\tdangerous_polyT\tdangerous_in_genome\tHsu2013\tbasesDiffToClosestHit\tclosestHitCount\t0-1-2-3-4_mismatch\totCount",
+    "log_path": "C:\\Users\\asus\\OneDrive\\Desktop\\malat1-crispri-locus-module-v0.2_1\\data\\offtarget\\flashfry\\logs\\malat1_score.log"
+  },
+  "interpretation_guard": "CFD, Hsu2013, dangerous and minot are safety proxies developed for Cas9 cutting/off-target contexts. In this CRISPRi framework they retain U_modality_transfer and must not be interpreted as direct repression efficacy."
+}

@@ -1,0 +1,19 @@
+{
+  "clean_run_reference_environment": {
+    "python": "3.13.5",
+    "numpy": "2.3.5",
+    "matplotlib": "3.10.8"
+  },
+  "original_flashfry_environment": {
+    "FlashFry": "1.15",
+    "Java": "OpenJDK Temurin 1.8.0_492",
+    "heap_gb": 8
+  },
+  "reference_and_annotation": {
+    "genome": "GRCh38.p14",
+    "GENCODE": "50",
+    "Ensembl": "116"
+  },
+  "random_seed_base": 20260715,
+  "notes": "Post-FlashFry pipeline does not rebuild the whole-genome index. Exact Java/FlashFry provenance is preserved in inputs/*.json."
+}

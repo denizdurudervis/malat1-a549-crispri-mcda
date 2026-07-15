@@ -1,0 +1,18 @@
+Use the attached technical package to draft a scientific manuscript.
+
+Before writing:
+1. read CLAUDE_HANDOFF_README.md;
+2. read TECHNICAL_COMPLETION_REPORT.md;
+3. inspect integrated_candidate_technical_status.tsv and all sensitivity
+   summaries;
+4. verify every numerical claim against a TSV/JSON file;
+5. preserve the distinction between experimental evidence, historical evidence,
+   and model-derived predictions.
+
+The manuscript must not overclaim. The proposed guide panel is for experimental
+validation. The work is a single-locus, single-cell-context decision-analytic
+case study and not a clinically validated CRISPR therapeutic design.
+
+Use the supplied provenance, software versions, hashes and manifests in the
+Methods/Data Availability sections. Flag any citation that requires external
+verification rather than inventing bibliographic details.
