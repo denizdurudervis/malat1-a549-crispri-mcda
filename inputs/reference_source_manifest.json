@@ -1,0 +1,54 @@
+{
+  "scope": "Version-pinned genome, annotation and A549 empirical resources used before the frozen post-FlashFry decision matrix was created.",
+  "large_files_included": false,
+  "large_file_policy": "Large public reference and assay files are not redistributed in this repository. Their release identifiers and hashes are retained for provenance.",
+  "genome_and_annotation": [
+    {
+      "resource": "Human primary assembly FASTA",
+      "release": "GENCODE Human Release 50; GRCh38 primary assembly",
+      "sha256": "b760d18dbb651dd14dfc290083371b3ef3bff122d43a9cefb13ca4ecf38f05ca",
+      "role": "Whole-genome FlashFry index and matching"
+    },
+    {
+      "resource": "Chromosome 11 FASTA",
+      "release": "GRCh38 chromosome 11 sequence",
+      "sha256": "a395f42c213ff69eb9006fe47e8a77d81888e2c1e4670ce955a1c920b1e086c3",
+      "role": "Locus extraction and sequence checks"
+    },
+    {
+      "resource": "Gene annotation GTF",
+      "release": "GENCODE Human Release 50; GRCh38.p14",
+      "sha256": "83fba3e9b03f0b8c958f3595c6c350adc55f468abf8b0e47b6d5284cfe13a453",
+      "role": "Transcript and local-context annotation"
+    }
+  ],
+  "empirical_sources": [
+    {
+      "assay": "CAGE",
+      "source": "FANTOM5",
+      "sample_or_experiment": "CNhs11275",
+      "role": "A549 transcription-initiation evidence"
+    },
+    {
+      "assay": "ATAC-seq",
+      "source": "ENCODE",
+      "sample_or_experiment": "ENCSR032RGS",
+      "files": [
+        "ENCFF899OMR",
+        "ENCFF876UEM"
+      ],
+      "role": "A549 accessibility evidence"
+    },
+    {
+      "assay": "poly(A)-minus RNA-seq",
+      "source": "ENCODE",
+      "sample_or_experiment": "ENCSR000CQC",
+      "files": [
+        "ENCFF006LPZ",
+        "ENCFF957YDR"
+      ],
+      "role": "A549 expression-context evidence"
+    }
+  ],
+  "interpretation_guard": "These identifiers document upstream evidence provenance. The public clean run begins from the frozen post-FlashFry input matrix and does not re-download or reprocess these resources."
+}

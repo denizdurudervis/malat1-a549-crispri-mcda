@@ -78,7 +78,7 @@ therefore not treated as independent criteria.
 
 ## Remaining non-computational work
 
-- manuscript drafting and reference verification;
+- external peer review and any venue-specific manuscript revision;
 - experimental repression testing;
 - measurement of unintended local transcriptional effects;
 - empirical genome-wide off-target validation.

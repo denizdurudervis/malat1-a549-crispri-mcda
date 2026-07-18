@@ -1,13 +1,32 @@
 {
   "passed": true,
   "numeric_tolerance": 5e-08,
-  "python": "3.13.5 (main, May  5 2026, 21:05:52) [GCC 14.2.0]",
-  "platform": "Linux-4.4.0-x86_64-with-glibc2.41",
+  "python": "3.12.13 (main, Mar  3 2026, 14:59:34) [Clang 21.1.4 ]",
+  "platform": "Linux-6.12.47-x86_64-with-glibc2.39",
   "numpy": "2.3.5",
+  "locked_output_count": 13,
   "comparisons": [
     {
       "generated": "generated/normalized/malat1_a549_normalized_decision_matrix_v0_3.tsv",
       "reference": "reference/normalized/malat1_a549_normalized_decision_matrix_v0_3.tsv",
+      "rows_generated": 86,
+      "rows_reference": 86,
+      "passed": true,
+      "issues": [],
+      "maximum_numeric_difference": 0.0
+    },
+    {
+      "generated": "generated/profile_smaa/malat1_a549_smaa_central_weights_v0_1.tsv",
+      "reference": "reference/profile_smaa/malat1_a549_smaa_central_weights_v0_1.tsv",
+      "rows_generated": 258,
+      "rows_reference": 258,
+      "passed": true,
+      "issues": [],
+      "maximum_numeric_difference": 0.0
+    },
+    {
+      "generated": "generated/profile_smaa/malat1_a549_smaa_overall_robustness_v0_1.tsv",
+      "reference": "reference/profile_smaa/malat1_a549_smaa_overall_robustness_v0_1.tsv",
       "rows_generated": 86,
       "rows_reference": 86,
       "passed": true,
@@ -24,10 +43,10 @@
       "maximum_numeric_difference": 0.0
     },
     {
-      "generated": "generated/profile_smaa/malat1_a549_smaa_overall_robustness_v0_1.tsv",
-      "reference": "reference/profile_smaa/malat1_a549_smaa_overall_robustness_v0_1.tsv",
-      "rows_generated": 86,
-      "rows_reference": 86,
+      "generated": "generated/profile_smaa/malat1_a549_smaa_rank_acceptability_v0_1.tsv",
+      "reference": "reference/profile_smaa/malat1_a549_smaa_rank_acceptability_v0_1.tsv",
+      "rows_generated": 22188,
+      "rows_reference": 22188,
       "passed": true,
       "issues": [],
       "maximum_numeric_difference": 0.0
@@ -49,6 +68,60 @@
       "passed": true,
       "issues": [],
       "maximum_numeric_difference": 0.0
+    },
+    {
+      "generated": "generated/extended/tables/monte_carlo_convergence.tsv",
+      "reference": "reference/extended/monte_carlo_convergence.tsv",
+      "rows_generated": 5,
+      "rows_reference": 5,
+      "passed": true,
+      "issues": [],
+      "maximum_numeric_difference": 0.0
+    },
+    {
+      "generated": "generated/extended/tables/offtarget_model_summary.tsv",
+      "reference": "reference/extended/offtarget_model_summary.tsv",
+      "rows_generated": 12,
+      "rows_reference": 12,
+      "passed": true,
+      "issues": [],
+      "maximum_numeric_difference": 0.0
+    },
+    {
+      "generated": "generated/extended/tables/pareto_front_and_layers.tsv",
+      "reference": "reference/extended/pareto_front_and_layers.tsv",
+      "rows_generated": 86,
+      "rows_reference": 86,
+      "passed": true,
+      "issues": [],
+      "maximum_numeric_difference": 0.0
+    },
+    {
+      "generated": "generated/extended/tables/position_model_summary.tsv",
+      "reference": "reference/extended/position_model_summary.tsv",
+      "rows_generated": 15,
+      "rows_reference": 15,
+      "passed": true,
+      "issues": [],
+      "maximum_numeric_difference": 0.0
+    },
+    {
+      "generated": "generated/extended/tables/random_seed_summary.tsv",
+      "reference": "reference/extended/random_seed_summary.tsv",
+      "rows_generated": 5,
+      "rows_reference": 5,
+      "passed": true,
+      "issues": [],
+      "maximum_numeric_difference": 0.0
+    },
+    {
+      "generated": "generated/extended/tables/sequence_qc_summary.tsv",
+      "reference": "reference/extended/sequence_qc_summary.tsv",
+      "rows_generated": 18,
+      "rows_reference": 18,
+      "passed": true,
+      "issues": [],
+      "maximum_numeric_difference": 0.0
     }
   ],
   "invariants": {
@@ -59,8 +132,10 @@
     "one_mismatch_candidate_count_6": true,
     "no_extra_exact_offtarget": true,
     "core_integrated_top3": true,
-    "profile_robustness_top1": true
+    "profile_robustness_top1": true,
+    "all_22_expected_png_figures_valid": true,
+    "all_14_expected_pdf_figures_valid": true
   },
   "generated_confidence_factor_file_exists": true,
-  "interpretation": "PASS means the post-FlashFry scientific tables reproduce the locked reference within tolerance; PNG/XLSX binary hashes are intentionally not required."
+  "interpretation": "PASS means every column in all locked post-FlashFry scientific TSV outputs reproduces the reference within tolerance and all expected PNG/PDF figure artifacts are valid; figure byte equality is intentionally not required."
 }

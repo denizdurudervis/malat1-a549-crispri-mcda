@@ -17,8 +17,15 @@ It does not repeat public-data downloads, GENCODE parsing, whole-genome index co
 ## Pass criteria
 
 - all comparison keys match;
-- selected numeric results differ by no more than `5e-8`;
+- every column in all 13 locked scientific TSV outputs matches, with numeric
+  differences no greater than `5e-8`;
 - 86 unique candidates remain;
 - six candidates have a one-mismatch hit;
 - no candidate has an extra exact genomic match;
 - the primary robust candidate is `NGG_0046` and the integrated top three are `0046–0048`.
+- all 22 expected PNG and 14 expected PDF figure files are valid nonempty
+  artifacts.
+
+`FILE_MANIFEST_SHA256.tsv` is a separate byte-integrity record for the deposited
+release. Validate it before a clean run with
+`python scripts/06_validate_file_manifest.py`.

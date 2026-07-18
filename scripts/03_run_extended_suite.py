@@ -1,14 +1,10 @@
-# Exact analysis code executed in the ChatGPT Python environment.
+# Extended reproducibility and sensitivity analyses.
 
 from pathlib import Path
 from collections import OrderedDict, defaultdict
 import csv
 import json
 import math
-import hashlib
-import zipfile
-import shutil
-import textwrap
 import numpy as np
 import matplotlib
 matplotlib.use("Agg")
@@ -54,9 +50,23 @@ def write_tsv(path, rows, fields=None):
     if fields is None:
         fields = list(rows[0].keys())
     with path.open("w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=fields, delimiter="\t", extrasaction="ignore")
+        w = csv.DictWriter(
+            f,
+            fieldnames=fields,
+            delimiter="\t",
+            extrasaction="ignore",
+            lineterminator="\n",
+        )
         w.writeheader()
         w.writerows(rows)
+
+
+def save_png(fig, path, dpi=300):
+    """Write a PNG and fail immediately if the render is incomplete."""
+    path.unlink(missing_ok=True)
+    fig.savefig(path, dpi=dpi)
+    if path.stat().st_size <= 100 or path.read_bytes()[:8] != b"\x89PNG\r\n\x1a\n":
+        raise RuntimeError(f"Invalid PNG render: {path}")
 
 
 def as_bool(v):
@@ -1048,7 +1058,7 @@ ax.set_ylabel("Candidate ID suffix")
 ax.set_title("Position-model sensitivity of leading candidates")
 ax.grid(axis="x", alpha=.25)
 fig.tight_layout()
-fig.savefig(FIGURES/"Figure_7_position_model_rank_ranges.png", dpi=300)
+save_png(fig, FIGURES/"Figure_7_position_model_rank_ranges.png")
 plt.close(fig)
 
 # Sequence rank ranges.
@@ -1065,7 +1075,7 @@ ax.set_ylabel("Candidate ID suffix")
 ax.set_title("Sequence-QC sensitivity of leading candidates")
 ax.grid(axis="x", alpha=.25)
 fig.tight_layout()
-fig.savefig(FIGURES/"Figure_8_sequence_qc_rank_ranges.png", dpi=300)
+save_png(fig, FIGURES/"Figure_8_sequence_qc_rank_ranges.png")
 plt.close(fig)
 
 # Global SMAA top 10.
@@ -1083,7 +1093,7 @@ ax.set_title("Global-weight SMAA robustness")
 ax.set_xlim(0,1)
 ax.grid(axis="x",alpha=.25)
 fig.tight_layout()
-fig.savefig(FIGURES/"Figure_9_global_weight_smaa_top10.png", dpi=300)
+save_png(fig, FIGURES/"Figure_9_global_weight_smaa_top10.png")
 plt.close(fig)
 
 # Pareto trade-off.
@@ -1100,7 +1110,7 @@ ax.set_ylabel("Local-safety domain")
 ax.set_title("Pareto structure of efficacy and local safety")
 ax.grid(alpha=.25)
 fig.tight_layout()
-fig.savefig(FIGURES/"Figure_10_pareto_efficacy_local_safety.png", dpi=300)
+save_png(fig, FIGURES/"Figure_10_pareto_efficacy_local_safety.png")
 plt.close(fig)
 
 # MDS.
@@ -1114,7 +1124,7 @@ ax.set_ylabel("MDS dimension 2")
 ax.set_title("Two-dimensional criterion-space representation")
 ax.grid(alpha=.25)
 fig.tight_layout()
-fig.savefig(FIGURES/"Figure_11_mds_criterion_space.png", dpi=300)
+save_png(fig, FIGURES/"Figure_11_mds_criterion_space.png")
 plt.close(fig)
 
 # Uncertainty source impact.
@@ -1128,7 +1138,7 @@ ax.set_ylabel("Mean absolute rank shift")
 ax.set_title("One-at-a-time uncertainty-source impact")
 ax.grid(axis="y",alpha=.25)
 fig.tight_layout()
-fig.savefig(FIGURES/"Figure_12_uncertainty_source_rank_impact.png", dpi=300)
+save_png(fig, FIGURES/"Figure_12_uncertainty_source_rank_impact.png")
 plt.close(fig)
 
 # Convergence.
@@ -1139,7 +1149,7 @@ ax.set_ylabel("Maximum |P(top 5) - final P(top 5)|")
 ax.set_title("Monte Carlo convergence")
 ax.grid(alpha=.25)
 fig.tight_layout()
-fig.savefig(FIGURES/"Figure_13_monte_carlo_convergence.png", dpi=300)
+save_png(fig, FIGURES/"Figure_13_monte_carlo_convergence.png")
 plt.close(fig)
 
 # Historical TSS distance.
@@ -1157,7 +1167,7 @@ ax.set_ylabel("Midpoint distance to A549 active TSS (bp)")
 ax.set_title("Current and historical MALAT1 guide locations")
 ax.grid(axis="y",alpha=.25)
 fig.tight_layout()
-fig.savefig(FIGURES/"Figure_14_historical_guide_tss_distance.png", dpi=300)
+save_png(fig, FIGURES/"Figure_14_historical_guide_tss_distance.png")
 plt.close(fig)
 
 
@@ -1244,7 +1254,7 @@ therefore not treated as independent criteria.
 
 ## Remaining non-computational work
 
-- manuscript drafting and reference verification;
+- external peer review and any venue-specific manuscript revision;
 - experimental repression testing;
 - measurement of unintended local transcriptional effects;
 - empirical genome-wide off-target validation.
@@ -1252,80 +1262,6 @@ therefore not treated as independent criteria.
 These cannot be completed by further calculation on the present data.
 """
 (DOCS/"TECHNICAL_COMPLETION_REPORT.md").write_text(technical_report,encoding="utf-8")
-
-claude_readme = """# Claude Technical Handoff — Read This First
-
-You are receiving the complete technical package for a computational CRISPRi
-guide-prioritization case study.
-
-## Locked study identity
-
-- Target: MALAT1
-- Cell context: A549
-- Effector: ZIM3-KRAB-dCas9 CRISPRi
-- Genome: GRCh38.p14
-- Annotation: GENCODE 50 / Ensembl 116
-- Active A549 TSS anchor: chr11:65,499,045
-- Candidate set: 86 SpCas9-NGG guides in TSS ±500 bp
-- Primary genome-wide off-target score: Jost–Santos CRISPRi specificity
-- Decision framework: hierarchical multi-criteria analysis with SMAA-like
-  Monte Carlo rank acceptability
-
-## Files to start with
-
-1. `tables/integrated_candidate_technical_status.tsv`
-2. `tables/global_weight_smaa_summary.tsv`
-3. `tables/pareto_front_and_layers.tsv`
-4. `tables/position_candidate_rank_stability.tsv`
-5. `tables/sequence_candidate_rank_stability.tsv`
-6. `tables/offtarget_candidate_rank_stability.tsv`
-7. `docs/TECHNICAL_COMPLETION_REPORT.md`
-8. the original `malat1_a549_raw_decision_matrix_v0_2.tsv`
-9. the original `malat1_a549_normalized_decision_matrix_v0_3.tsv`
-
-## Writing constraints
-
-- Describe results as in-silico prioritization, not validated efficacy.
-- Do not call a guide clinically safe or biologically validated.
-- Do not describe CFD/Hsu/Jost predictions as experimental off-target data.
-- Explain that CAGE defines the TSS and is not separately weighted.
-- Explain that ATAC peak files from the same ENCODE experiment are processed
-  alternatives, not independent biological replicates.
-- Treat local TALAM1 and nearby antisense-promoter effects as graded risks.
-- State that historical guides were designed around an older/inactive TSS
-  relative to the A549 evidence.
-- Report uncertainty distributions as modelling assumptions.
-- Do not infer unpublished knockdown percentages from bar heights.
-
-## Preferred manuscript logic
-
-Problem → cell-context-specific TSS audit → candidate generation → local and
-whole-genome safety audit → hierarchical criteria → profile SMAA → global-weight
-stress test → sensitivity/Pareto/MDS → provisional validation panel →
-limitations.
-"""
-(DOCS/"CLAUDE_HANDOFF_README.md").write_text(claude_readme,encoding="utf-8")
-
-claude_prompt = """Use the attached technical package to draft a scientific manuscript.
-
-Before writing:
-1. read CLAUDE_HANDOFF_README.md;
-2. read TECHNICAL_COMPLETION_REPORT.md;
-3. inspect integrated_candidate_technical_status.tsv and all sensitivity
-   summaries;
-4. verify every numerical claim against a TSV/JSON file;
-5. preserve the distinction between experimental evidence, historical evidence,
-   and model-derived predictions.
-
-The manuscript must not overclaim. The proposed guide panel is for experimental
-validation. The work is a single-locus, single-cell-context decision-analytic
-case study and not a clinically validated CRISPR therapeutic design.
-
-Use the supplied provenance, software versions, hashes and manifests in the
-Methods/Data Availability sections. Flag any citation that requires external
-verification rather than inventing bibliographic details.
-"""
-(DOCS/"CLAUDE_WRITING_PROMPT.txt").write_text(claude_prompt,encoding="utf-8")
 
 # Data dictionary for new outputs.
 dictionary_rows = [

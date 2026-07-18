@@ -18,7 +18,14 @@ def main():
     if generated.exists() and not args.keep_generated:
         shutil.rmtree(generated)
     generated.mkdir(parents=True,exist_ok=True)
-    for script in ['01_build_normalized_matrix.py','02_run_profile_smaa.py','04_compute_confidence_factors.py','03_run_extended_suite.py','05_validate_outputs.py']:
+    for script in [
+        '01_build_normalized_matrix.py',
+        '02_run_profile_smaa.py',
+        '04_compute_confidence_factors.py',
+        '03_run_extended_suite.py',
+        '07_build_manuscript_figures.py',
+        '05_validate_outputs.py',
+    ]:
         run(script)
     print("\nPOST-FLASHFRY REPRODUCIBILITY PIPELINE COMPLETE")
 

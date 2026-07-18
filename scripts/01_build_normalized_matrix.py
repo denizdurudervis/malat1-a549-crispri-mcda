@@ -3,7 +3,7 @@ r"""
 Build the normalized MALAT1 A549 decision matrix v0.3 from the raw v0.2 TSV.
 
 Run from repository root:
-    .\.venv\Scripts\python.exe scripts\build_normalized_decision_matrix_v0_3.py
+    .\.venv\Scripts\python.exe scripts\01_build_normalized_matrix.py
 """
 from pathlib import Path
 import csv
@@ -19,6 +19,29 @@ PROFILES = OrderedDict([
     ("safety_focused", (0.20, 0.35, 0.15, 0.30)),
 ])
 
+# Public normalized-matrix contract.  The raw input retains the complete
+# FlashFry and locus-context provenance; this derived matrix intentionally
+# exposes only the fields used to define or audit the decision criteria.
+RAW_OUTPUT_FIELDS = [
+    "candidate_id",
+    "chromosome",
+    "protospacer_start_1based",
+    "protospacer_end_1based",
+    "guide_orientation",
+    "protospacer_sequence_20nt",
+    "pam_guide_orientation",
+    "spacer_plus_pam_guide_orientation",
+    "midpoint_distance_to_tss_bp",
+    "gc_percent",
+    "has_poly_t_4",
+    "max_homopolymer_run",
+    "one_mismatch_hits",
+    "two_mismatch_hits",
+    "jost_crispri_specificity",
+    "doench_cfd_specificity",
+    "hsu2013_specificity",
+]
+
 def read_tsv(path):
     with path.open("r", encoding="utf-8-sig", newline="") as h:
         return list(csv.DictReader(h, delimiter="\t"))
@@ -26,7 +49,9 @@ def read_tsv(path):
 def write_tsv(path, rows):
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8", newline="") as h:
-        w = csv.DictWriter(h, fieldnames=list(rows[0]), delimiter="\t")
+        w = csv.DictWriter(
+            h, fieldnames=list(rows[0]), delimiter="\t", lineterminator="\n"
+        )
         w.writeheader()
         w.writerows(rows)
 
@@ -72,7 +97,7 @@ def main():
         local = (c3 + c4) / 2
         seq = float(c5)
         off = c6
-        row = OrderedDict(raw)
+        row = OrderedDict((field, raw[field]) for field in RAW_OUTPUT_FIELDS)
         row.update({
             "C1_position_soft_support": round(c1, 6),
             "position_core_minus50_plus300_flag": int(
@@ -90,6 +115,8 @@ def main():
             "one_mismatch_safeguard_pass": int(
                 int(raw["one_mismatch_hits"]) == 0
             ),
+            "two_mismatch_count_audit": int(raw["two_mismatch_hits"]),
+            "CAGE_used_for_TSS_definition_not_rescored": 1,
             "normalization_status":
                 "normalized_hierarchical_profiles_exploratory_not_SMAA",
         })

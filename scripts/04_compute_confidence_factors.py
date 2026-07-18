@@ -26,7 +26,9 @@ def read_tsv(path):
 
 def write_tsv(path, rows):
     with path.open("w", encoding="utf-8", newline="") as h:
-        w = csv.DictWriter(h, fieldnames=list(rows[0]), delimiter="\t")
+        w = csv.DictWriter(
+            h, fieldnames=list(rows[0]), delimiter="\t", lineterminator="\n"
+        )
         w.writeheader(); w.writerows(rows)
 
 def main():

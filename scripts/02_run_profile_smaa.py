@@ -60,6 +60,7 @@ def write_tsv(path, rows):
             fieldnames=list(rows[0].keys()),
             delimiter="\t",
             extrasaction="ignore",
+            lineterminator="\n",
         )
         writer.writeheader()
         writer.writerows(rows)

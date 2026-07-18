@@ -71,6 +71,7 @@ bash clean_run.sh
 
 ```bash
 python -m pip install -r requirements-lock.txt
+python scripts/06_validate_file_manifest.py
 python scripts/run_pipeline.py
 ```
 
@@ -83,8 +84,8 @@ generated/reproducibility_validation_report.md
 ## Colab
 
 Open `notebooks/MALAT1_A549_post_FlashFry_reproducibility.ipynb` in Google
-Colab. Before the repository has a public URL, the notebook also supports
-uploading this repository as a ZIP file.
+Colab. The public repository URL is preconfigured; the notebook also supports
+running from an extracted repository ZIP.
 
 The notebook deliberately starts from the frozen post-FlashFry input matrix.
 It does not rebuild the large GRCh38 whole-genome FlashFry index.
@@ -95,7 +96,9 @@ It does not rebuild the large GRCh38 whole-genome FlashFry index.
 2. Re-run three-profile stochastic rank-acceptability analysis.
 3. Compute central-weight confidence-factor analogues.
 4. Re-run global-weight and sensitivity analyses.
-5. Compare generated scientific TSV outputs against locked references.
+5. Rebuild the six manuscript and eight supplementary publication figures.
+6. Compare generated scientific TSV outputs against locked references.
+7. Confirm that all 22 PNG and 14 PDF figure artifacts are valid.
 
 ## Repository structure
 
@@ -124,10 +127,12 @@ The post-FlashFry pipeline has passed clean-run validation in:
 - an isolated Linux/Python 3.13 environment;
 - a local Windows/Python 3.13 environment.
 
-Scientific TSV outputs are compared by keys and numeric tolerance. PNG and XLSX
-binary hashes are intentionally not treated as scientific equality tests,
-because rendering, compression, timestamps and font metadata can differ without
-changing the numerical results.
+All columns in 13 locked scientific TSV outputs are compared by keys and numeric
+tolerance. The pipeline also checks 22 expected PNG and 14 expected PDF figure
+artifacts. Figure binary hashes are intentionally not treated as scientific
+equality tests because rendering, compression and font metadata can differ
+without changing the numerical results. `FILE_MANIFEST_SHA256.tsv` separately
+records the byte-level integrity of the deposited release package.
 
 ## Important methodological notes
 
@@ -146,9 +151,9 @@ changing the numerical results.
 
 ## Citation
 
-Citation metadata are provided in `CITATION.cff`. Replace the repository URL and
-associated-manuscript fields after the public repository and manuscript record
-exist.
+Citation metadata and the repository URL are provided in `CITATION.cff`. The
+archived release DOI and associated-manuscript record should be added after
+those persistent identifiers exist.
 
 ## License
 

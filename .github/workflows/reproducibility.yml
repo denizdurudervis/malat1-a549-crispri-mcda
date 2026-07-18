@@ -26,6 +26,9 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install -r requirements-lock.txt
 
+      - name: Validate deposited release manifest
+        run: python scripts/06_validate_file_manifest.py
+
       - name: Run post-FlashFry pipeline
         run: python scripts/run_pipeline.py
 

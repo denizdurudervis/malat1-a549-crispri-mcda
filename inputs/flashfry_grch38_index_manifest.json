@@ -3,7 +3,7 @@
   "flashfry": {
     "version": "1.15",
     "official_release_url": "https://github.com/mckennalab/FlashFry/releases/download/1.15/FlashFry-assembly-1.15.jar",
-    "jar_path": "C:\\flashfry_work\\tools\\FlashFry-assembly-1.15.jar",
+    "jar_path": "<LOCAL_FLASHFRY_WORK>\\tools\\FlashFry-assembly-1.15.jar",
     "jar_size_bytes": 13980708,
     "jar_sha256": "9b56336f1dfc7333b6957664bf85cbaa414bff68250caa298070a33c15868a5e",
     "java_version_output": "openjdk version \"1.8.0_492\"\nOpenJDK Runtime Environment (Temurin)(build 1.8.0_492-b09)\nOpenJDK 64-Bit Server VM (Temurin)(build 25.492-b09, mixed mode)",
@@ -12,20 +12,20 @@
   "reference": {
     "source": "GENCODE Human Release 50",
     "assembly": "GRCh38 primary assembly",
-    "path": "C:\\Users\\asus\\OneDrive\\Desktop\\malat1-crispri-locus-module-v0.2_1\\data\\reference\\GRCh38.primary_assembly.genome.fa.gz",
+    "path": "<LOCAL_PROJECT_ROOT>\\data\\reference\\GRCh38.primary_assembly.genome.fa.gz",
     "size_bytes": 845635028,
     "sha256": "b760d18dbb651dd14dfc290083371b3ef3bff122d43a9cefb13ca4ecf38f05ca"
   },
   "database": {
     "enzyme": "spcas9ngg",
-    "database_path": "C:\\flashfry_work\\database\\gencode50_grch38_spcas9ngg",
+    "database_path": "<LOCAL_FLASHFRY_WORK>\\database\\gencode50_grch38_spcas9ngg",
     "database_size_bytes": 2432039742,
     "database_sha256": "898a89e60368ce22148c55f083470bf6d631a4bfa4738dc5c5e3591638dbdc51",
-    "header_path": "C:\\flashfry_work\\database\\gencode50_grch38_spcas9ngg.header",
+    "header_path": "<LOCAL_FLASHFRY_WORK>\\database\\gencode50_grch38_spcas9ngg.header",
     "header_size_bytes": 587926,
     "header_sha256": "f72eac46792d9ec8885502cf1b7f3d9339c7b93a49b3819ad161ef8284222c13",
-    "tmp_location": "C:\\flashfry_work\\tmp",
-    "log_path": "C:\\flashfry_work\\logs\\flashfry_index.log"
+    "tmp_location": "<LOCAL_FLASHFRY_WORK>\\tmp",
+    "log_path": "<LOCAL_FLASHFRY_WORK>\\logs\\flashfry_index.log"
   },
   "run": {
     "started_utc": "2026-07-14T13:49:15.714068+00:00",
@@ -34,17 +34,18 @@
       "java",
       "-Xmx8g",
       "-jar",
-      "C:\\flashfry_work\\tools\\FlashFry-assembly-1.15.jar",
+      "<LOCAL_FLASHFRY_WORK>\\tools\\FlashFry-assembly-1.15.jar",
       "index",
       "--tmpLocation",
-      "C:\\flashfry_work\\tmp",
+      "<LOCAL_FLASHFRY_WORK>\\tmp",
       "--database",
-      "C:\\flashfry_work\\database\\gencode50_grch38_spcas9ngg",
+      "<LOCAL_FLASHFRY_WORK>\\database\\gencode50_grch38_spcas9ngg",
       "--reference",
-      "C:\\Users\\asus\\OneDrive\\Desktop\\malat1-crispri-locus-module-v0.2_1\\data\\reference\\GRCh38.primary_assembly.genome.fa.gz",
+      "<LOCAL_PROJECT_ROOT>\\data\\reference\\GRCh38.primary_assembly.genome.fa.gz",
       "--enzyme",
       "spcas9ngg"
     ]
   },
-  "scope": "Whole-genome SpCas9-NGG FlashFry search database. Guide discovery and scoring are performed in later steps."
+  "scope": "Whole-genome SpCas9-NGG FlashFry search database. Guide discovery and scoring are performed in later steps.",
+  "path_policy": "Original machine-specific absolute paths were replaced by portable placeholders; hashes, versions, sizes, commands and timestamps are unchanged."
 }

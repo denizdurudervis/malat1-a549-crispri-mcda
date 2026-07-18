@@ -5,8 +5,8 @@ type: software
 authors:
   - family-names: "Derviş"
     given-names: "Deniz Duru"
-version: "1.0.0"
-date-released: "2026-07-15"
+version: "1.0.1"
+date-released: "2026-07-19"
 repository-code: "https://github.com/denizdurudervis/malat1-a549-crispri-mcda"
 url: "https://github.com/denizdurudervis/malat1-a549-crispri-mcda"
 license: MIT

@@ -34,6 +34,10 @@ if ($LASTEXITCODE -ne 0) { throw "pip upgrade failed." }
 & $python -m pip install -r requirements-lock.txt
 if ($LASTEXITCODE -ne 0) { throw "Dependency installation failed." }
 
+Write-Host "Validating the deposited release manifest..."
+& $python scripts\06_validate_file_manifest.py
+if ($LASTEXITCODE -ne 0) { throw "Release manifest validation failed." }
+
 Write-Host "Running the reproducibility pipeline..."
 & $python scripts\run_pipeline.py
 if ($LASTEXITCODE -ne 0) { throw "Pipeline failed." }

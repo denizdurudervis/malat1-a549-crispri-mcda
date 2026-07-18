@@ -1,7 +1,7 @@
 {
   "suggested_repository_name": "malat1-a549-crispri-mcda",
   "description": "Reproducible uncertainty-aware multicriteria prioritization of MALAT1 CRISPRi guides in A549 cells.",
-  "visibility_before_submission": "private",
+  "release_visibility": "public_at_preprint_release",
   "suggested_topics": [
     "crispri",
     "malat1",

@@ -6,8 +6,14 @@ The GitHub-ready package was validated before delivery.
 
 - `python scripts/run_pipeline.py`
   - Result: PASS
-  - The generated scientific outputs matched the locked references within the
-    configured tolerance.
+  - Every column in all 13 locked scientific TSV outputs matched the reference
+    tables within the configured tolerance.
+  - All 22 expected generated PNG and 14 expected generated PDF files were
+    valid nonempty artifacts.
+
+- `python scripts/06_validate_file_manifest.py`
+  - Result: PASS
+  - Deposited files matched the release-level size and SHA-256 manifest.
 
 - `notebooks/MALAT1_A549_post_FlashFry_reproducibility.ipynb`
   - Result: PASS

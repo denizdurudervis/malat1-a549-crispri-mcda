@@ -2,7 +2,7 @@
 
 **Result: PASS**
 
-The standalone post-FlashFry pipeline was executed in a newly created isolated Python virtual environment using the pinned package versions. The generated scientific TSV outputs matched the locked reference outputs within tolerance `5e-08`.
+The standalone post-FlashFry pipeline was executed in a newly created isolated Python virtual environment using the pinned package versions. Every column in all 13 locked scientific TSV outputs matched the reference outputs within tolerance `5e-08`.
 
 Validated items include:
 
