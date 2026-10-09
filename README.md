@@ -1,5 +1,8 @@
 # Uncertainty-aware CRISPRi guide prioritization for the MALAT1 locus in A549
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21434610.svg)](https://doi.org/10.5281/zenodo.21434610)
+[![Reproducibility pipeline](https://github.com/denizdurudervis/malat1-a549-crispri-mcda/actions/workflows/reproducibility.yml/badge.svg)](https://github.com/denizdurudervis/malat1-a549-crispri-mcda/actions/workflows/reproducibility.yml)
+
 This repository contains the reproducible, post-FlashFry decision-analytic
 pipeline for a single-locus CRISPR interference case study.
 
@@ -151,9 +154,16 @@ records the byte-level integrity of the deposited release package.
 
 ## Citation
 
-Citation metadata and the repository URL are provided in `CITATION.cff`. The
-archived release DOI and associated-manuscript record should be added after
-those persistent identifiers exist.
+Please cite the archived release:
+
+> Derviş, D. D. (2026). *Uncertainty-aware CRISPRi guide prioritization for the MALAT1 locus in A549* (v1.0.1) [Software]. Zenodo. https://doi.org/10.5281/zenodo.21434610
+
+Machine-readable citation metadata are provided in `CITATION.cff`.
+
+## AI assistance
+
+The use of generative AI tools in this project is described in
+`docs/AI_ASSISTANCE.md`.
 
 ## License
 

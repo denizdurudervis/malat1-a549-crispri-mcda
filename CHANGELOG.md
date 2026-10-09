@@ -1,5 +1,14 @@
 # Changelog
 
+## Unreleased — documentation
+
+- Added the Zenodo archive DOI to the README and citation metadata.
+- Replaced the AI-assistance disclosure template with a final statement
+  (`docs/AI_ASSISTANCE.md`).
+- Removed internal upload notes and a metadata template from the public
+  repository.
+- No changes to code, inputs or scientific outputs.
+
 ## v1.0.1 — 2026-07-19
 
 - Strengthened regression validation from selected columns in five outputs to

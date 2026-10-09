@@ -6,10 +6,15 @@ authors:
   - family-names: "Derviş"
     given-names: "Deniz Duru"
 version: "1.0.1"
+doi: "10.5281/zenodo.21434610"
 date-released: "2026-07-19"
 repository-code: "https://github.com/denizdurudervis/malat1-a549-crispri-mcda"
 url: "https://github.com/denizdurudervis/malat1-a549-crispri-mcda"
 license: MIT
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21434610"
+    description: "Archived v1.0.1 release on Zenodo"
 keywords:
   - CRISPRi
   - MALAT1
